@@ -46,7 +46,7 @@ def form1():
 def form_config():
     # 动态字段配置，包括全局标签位置
     response = {
-        'title': 'Grant Application',
+        'title': 'Grant Application to Gradey',
         "label_position": "top",  # 全局标签位置，可以是 "top" 或 "left"
         # "label_position": "left",  # 全局标签位置，可以是 "top" 或 "left"
         # "allowManualInput": False,
@@ -65,7 +65,7 @@ def form_config():
 @app.route('/form-config-group', methods=['GET'])
 def form_config_group():
     response = {
-        'title': 'Grant Application',
+        'title': 'Grant Application to Gradey to Gradey',
         "label_position": "top",
         "allowManualInput": True,
         "groups": [

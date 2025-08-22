@@ -399,29 +399,10 @@ def order_request():
 
 # 添加辅助函数
 def save_submission_to_json(template_name, data):
-    """将提交的数据保存到对应的JSON文件中"""
-    # 确保submission文件夹存在
-    if not os.path.exists('submission'):
-        os.makedirs('submission')
-    
-    # 构建JSON文件路径
-    filename = f"submission/{template_name.replace('.html', '')}.json"
-    
-    # 添加时间戳
+    """No-op: previously wrote to disk; now mirrored into DOM by pages."""
+    # Preserve prior side-effect of adding a timestamp if downstream expects it
     data['submission_time'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    
-    # 读取现有数据或创建新的数据列表
-    submissions = []
-    if os.path.exists(filename):
-        with open(filename, 'r', encoding='utf-8') as f:
-            submissions = json.load(f)
-    
-    # 添加新提交的数据
-    submissions.append(data)
-    
-    # 保存更新后的数据
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(submissions, f, ensure_ascii=False, indent=4)
+    return
 
 if __name__ == '__main__':
     app.run(debug=True)

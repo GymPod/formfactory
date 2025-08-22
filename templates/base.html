@@ -10,8 +10,38 @@
     <div class="container mt-5">
         {% block content %}{% endblock %}
     </div>
+    <!-- Hidden field to store last submitted JSON across pages -->
+    <input type="hidden" id="selected-answer">
+
     <script src="{{ url_for('static', filename='js/jquery-3.5.1.slim.min.js') }}"></script>
     <script src="{{ url_for('static', filename='js/popper.min.js') }}"></script>
     <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script>
+    (function(){
+        // Attach to all forms without changing visible behavior
+        function toJSON(form){
+            const fd = new FormData(form);
+            const obj = {};
+            for (const [k,v] of fd.entries()){
+                if (v instanceof File) {
+                    obj[k] = v.name || '';
+                } else {
+                    obj[k] = v;
+                }
+            }
+            return JSON.stringify(obj);
+        }
+        function setHidden(json){
+            var el = document.getElementById('selected-answer');
+            if (el) el.value = json;
+        }
+        window.addEventListener('submit', function(e){
+            // Do not prevent default; only mirror data into DOM
+            if (e.target && e.target.tagName === 'FORM'){
+                try { setHidden(toJSON(e.target)); } catch(_){}
+            }
+        }, true);
+    })();
+    </script>
 </body>
 </html>

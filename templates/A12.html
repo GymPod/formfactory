@@ -18,6 +18,8 @@
         <form id="dynamicForm" method="POST">
             <!-- 表单字段将通过 JavaScript 动态生成 -->
         </form>
+        <!-- Hidden field to store last submitted JSON for this page -->
+        <input type="hidden" id="selected-answer">
         <button type="submit" form="dynamicForm" class="btn btn-primary">Submit</button>
     </div>
 
@@ -26,6 +28,15 @@
         document.getElementById('dynamicForm').addEventListener('submit', function(e) {
             e.preventDefault();
             const formData = new FormData(this);
+            // Mirror submitted data into DOM hidden field (JSON string)
+            (function(){
+                const obj = {};
+                for (const [k,v] of formData.entries()){
+                    obj[k] = v instanceof File ? (v.name || '') : v;
+                }
+                const el = document.getElementById('selected-answer');
+                if (el) el.value = JSON.stringify(obj);
+            })();
             
             fetch(window.location.href, {
                 method: 'POST',

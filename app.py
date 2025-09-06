@@ -399,9 +399,32 @@ def order_request():
 
 # 添加辅助函数
 def save_submission_to_json(template_name, data):
-    """No-op: previously wrote to disk; now mirrored into DOM by pages."""
+    """Augment returned JSON with timestamp and selected file names.
+
+    Adds a top-level key `file_path` which maps each file input field name
+    to a list of selected filenames (client paths are not available by design).
+    """
     # Preserve prior side-effect of adding a timestamp if downstream expects it
     data['submission_time'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    try:
+        files_map = {}
+        # request.files is a MultiDict; gather all file field names
+        if hasattr(request, 'files'):
+            for field in request.files.keys():
+                file_list = request.files.getlist(field)
+                names = [f.filename for f in file_list if getattr(f, 'filename', '')]
+                if names:
+                    files_map[field] = names
+        # Attach under a single top-level field
+        if files_map:
+            data['file_path'] = files_map
+        else:
+            # Ensure field exists for consistency, even if empty
+            data['file_path'] = {}
+    except Exception:
+        # Do not fail submission if file extraction has issues
+        data.setdefault('file_path', {})
     return
 
 if __name__ == '__main__':

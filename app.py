@@ -406,3 +406,33 @@ def save_submission_to_json(template_name, data):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# Logging endpoint for client-side file selections
+@app.route('/log/file-selection', methods=['POST'])
+def log_file_selection():
+    """Receive client-side file selection metadata and persist to a JSONL file."""
+    try:
+        payload = request.get_json(silent=True, force=True) or {}
+    except Exception:
+        payload = {}
+
+    # Enrich with server-observed metadata
+    try:
+        payload['server_time'] = datetime.utcnow().isoformat() + 'Z'
+    except Exception:
+        pass
+
+    # Persist to workspace under submission/
+    try:
+        os.makedirs('submission', exist_ok=True)
+        log_path = os.path.join('submission', 'file_selections.jsonl')
+        with open(log_path, 'a', encoding='utf-8') as f:
+            f.write(json.dumps(payload, ensure_ascii=False) + '\n')
+    except Exception as e:
+        # Also surface in server logs for visibility
+        try:
+            app.logger.exception('Failed writing file selection log: %s', e)
+        except Exception:
+            pass
+
+    return jsonify({"ok": True})

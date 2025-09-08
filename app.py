@@ -399,9 +399,29 @@ def order_request():
 
 # 添加辅助函数
 def save_submission_to_json(template_name, data):
-    """No-op: previously wrote to disk; now mirrored into DOM by pages."""
-    # Preserve prior side-effect of adding a timestamp if downstream expects it
+    """Augment submission dict with timestamp and any uploaded filenames.
+
+    Note: We do not persist to disk here. The returned API response contains
+    the pretty-printed JSON in the browser. We enhance the in-memory `data`
+    dict so filenames from `request.files` appear in the JSON payload.
+    """
+    # Add a submission timestamp
     data['submission_time'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    # Merge uploaded filenames into the data payload
+    try:
+        if request and request.files:
+            for field_name in request.files:
+                files = request.files.getlist(field_name)
+                # Collect non-empty filenames only
+                filenames = [f.filename for f in files if getattr(f, 'filename', '')]
+                if not filenames:
+                    continue
+                # If a single file was provided, store as string; else store list
+                data[field_name] = filenames[0] if len(filenames) == 1 else filenames
+    except Exception:
+        # Be resilient; avoid breaking submission on unexpected file parsing issues
+        pass
     return
 
 if __name__ == '__main__':

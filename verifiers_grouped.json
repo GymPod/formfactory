@@ -1,0 +1,940 @@
+{
+  "/construction-manufacturing/order-request": [
+    {
+      "message": "Manufacturing Order Request Submitted Successfully!",
+      "data": {
+        "companyName": "Zenith Engineering Services",
+        "customerNumber": "ZE-81134",
+        "productType": "standard",
+        "productDescription": "Insulated HVAC duct units for gym ventilation",
+        "quantity": "45",
+        "dimensions": "1500 x 600 x 400 mm",
+        "material": "Galvanized Steel with Mineral Wool Insulation",
+        "specifications": "R-6 insulation rating, internal sound lining, airtight sealant",
+        "qualityStandards": "ASHRAE 90.1, SMACNA compliant",
+        "requiredDate": "2025-08-01",
+        "shippingMethod": "express",
+        "drawings": "hvac_ducting_layout.dwg",
+        "additionalDocs": [
+          "energy_efficiency_cert.pdf",
+          "installation_guidelines.pdf"
+        ],
+        "submission_time": "2025-01-22 16:28:55"
+      }
+    },
+    {
+      "message": "Manufacturing Order Request Submitted Successfully!",
+      "data": {
+        "companyName": "Atlas Buildworks",
+        "customerNumber": "AB-67210",
+        "productType": "custom",
+        "productDescription": "High-durability rubberized flooring panels for weightlifting area",
+        "quantity": "250",
+        "dimensions": "1000 x 1000 x 20 mm",
+        "material": "Recycled EPDM Rubber with Polyurethane Binder",
+        "specifications": "Slip-resistant, shock absorption rating 60%, flame-retardant coating",
+        "qualityStandards": "ASTM F2772 compliant",
+        "requiredDate": "2025-07-05",
+        "shippingMethod": "ground",
+        "drawings": "flooring_layout_plan.dwg",
+        "additionalDocs": [
+          "material_safety_sheet.pdf",
+          "fire_resistance_cert.pdf"
+        ],
+        "submission_time": "2025-01-20 11:17:48"
+      }
+    },
+    {
+      "message": "Manufacturing Order Request Submitted Successfully!",
+      "data": {
+        "companyName": "Titan Constructors Ltd.",
+        "customerNumber": "TC-90477",
+        "productType": "standard",
+        "productDescription": "Reinforced steel support beams for gymnasium roofing",
+        "quantity": "120",
+        "dimensions": "3000 x 250 x 150 mm",
+        "material": "Structural Steel Grade S355",
+        "specifications": "Hot-dip galvanized, tolerance ±0.1mm",
+        "qualityStandards": "ISO 9001, EN 1090-2 compliant",
+        "requiredDate": "2025-06-10",
+        "shippingMethod": "ground",
+        "drawings": "roof_beam_layout.dwg",
+        "additionalDocs": [
+          "welding_procedure.pdf",
+          "load_certification.pdf"
+        ],
+        "submission_time": "2025-01-18 09:45:32"
+      }
+    }
+  ],
+  "/academic-research/student-registration": [
+    {
+      "message": "Student Registration Submitted Successfully!",
+      "data": {
+        "firstName": "Maya",
+        "middleName": "L",
+        "lastName": "Rodriguez",
+        "studentId": "S2238041",
+        "gpa": "3.72",
+        "major": "Mechanical Engineering",
+        "academicYear": "senior",
+        "financialAid": "loans",
+        "familyIncome": "90001-plus",
+        "achievements": "Capstone design award 2024; SAE Aero Design finalist",
+        "extracurricular": "ASME Chapter, Women in STEM",
+        "essay": "My goal is to design energy-efficient gym equipment...",
+        "reference1": "Dr. Henry Zhao",
+        "reference1Email": "henry.zhao@example.edu",
+        "transcript": "maya_rodriguez_transcript.pdf",
+        "recommendationLetter": "rec_dr_zhao.pdf",
+        "submission_time": "2025-09-08 10:05:31"
+      }
+    },
+    {
+      "message": "Student Registration Submitted Successfully!",
+      "data": {
+        "firstName": "Omar",
+        "middleName": "",
+        "lastName": "Singh",
+        "studentId": "S1987003",
+        "gpa": "3.94",
+        "major": "Data Science",
+        "academicYear": "sophomore",
+        "financialAid": "other",
+        "familyIncome": "0-30000",
+        "achievements": "Undergrad Research Fellowship 2025",
+        "extracurricular": "Track & Field, Data Club",
+        "essay": "Exploring predictive models for athlete performance...",
+        "reference1": "Prof. Lila Banerjee",
+        "reference1Email": "lila.banerjee@example.edu",
+        "transcript": "omar_singh_transcript.pdf",
+        "recommendationLetter": "rec_prof_banerjee.pdf",
+        "submission_time": "2025-09-08 10:07:12"
+      }
+    },
+    {
+      "message": "Student Registration Submitted Successfully!",
+      "data": {
+        "firstName": "Alex",
+        "middleName": "J",
+        "lastName": "Kim",
+        "studentId": "S1234567",
+        "gpa": "3.85",
+        "major": "Computer Science",
+        "academicYear": "junior",
+        "financialAid": "grants",
+        "familyIncome": "60001-90000",
+        "achievements": "Dean's List 2023; ACM ICPC regional finalist",
+        "extracurricular": "Robotics Club, Volunteer Tutor",
+        "essay": "I aim to research efficient ML systems...",
+        "reference1": "Dr. Priya Shah",
+        "reference1Email": "priya.shah@example.edu",
+        "transcript": "alex_kim_transcript.pdf",
+        "recommendationLetter": "recommendation_prof_shah.pdf",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    }
+  ],
+  "/academic-research/scholarship-application": [
+    {
+      "message": "Scholarship Application Submitted Successfully!",
+      "data": {
+        "firstName": "Alex",
+        "middleName": "J",
+        "lastName": "Kim",
+        "studentId": "S1234567",
+        "gpa": "3.85",
+        "major": "Computer Science",
+        "academicYear": "junior",
+        "financialAid": "grants",
+        "familyIncome": "60001-90000",
+        "achievements": "Dean's List 2023; ACM ICPC regional finalist",
+        "extracurricular": "Robotics Club, Volunteer Tutor",
+        "essay": "I aim to research efficient ML systems...",
+        "reference1": "Dr. Priya Shah",
+        "reference1Email": "priya.shah@example.edu",
+        "transcript": "alex_kim_transcript.pdf",
+        "recommendationLetter": "recommendation_prof_shah.pdf",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Scholarship Application Submitted Successfully!",
+      "data": {
+        "firstName": "Maya",
+        "middleName": "L",
+        "lastName": "Rodriguez",
+        "studentId": "S2238041",
+        "gpa": "3.72",
+        "major": "Mechanical Engineering",
+        "academicYear": "senior",
+        "financialAid": "loans",
+        "familyIncome": "90001-plus",
+        "achievements": "Capstone design award 2024",
+        "extracurricular": "ASME Chapter",
+        "essay": "Funding will support my senior thesis on kinetic recovery in gym equipment...",
+        "reference1": "Dr. Henry Zhao",
+        "reference1Email": "henry.zhao@example.edu",
+        "transcript": "maya_rodriguez_transcript.pdf",
+        "recommendationLetter": "rec_dr_zhao.pdf",
+        "submission_time": "2025-09-08 10:09:01"
+      }
+    },
+    {
+      "message": "Scholarship Application Submitted Successfully!",
+      "data": {
+        "firstName": "Omar",
+        "middleName": "",
+        "lastName": "Singh",
+        "studentId": "S1987003",
+        "gpa": "3.94",
+        "major": "Data Science",
+        "academicYear": "sophomore",
+        "financialAid": "other",
+        "familyIncome": "0-30000",
+        "achievements": "Undergrad Research Fellowship 2025",
+        "extracurricular": "Data Club",
+        "essay": "This award will help expand my athlete analytics study...",
+        "reference1": "Prof. Lila Banerjee",
+        "reference1Email": "lila.banerjee@example.edu",
+        "transcript": "omar_singh_transcript.pdf",
+        "recommendationLetter": "rec_prof_banerjee.pdf",
+        "submission_time": "2025-09-08 10:10:24"
+      }
+    }
+  ],
+  "/academic-research/paper-submission": [
+    {
+      "message": "Paper Submission Successful!",
+      "data": {
+        "author_name": "Priya Nandakumar",
+        "email": "priya.nandakumar@university.edu",
+        "paper_title": "Adaptive Scheduling for Shared GPU Clusters",
+        "abstract": "We present a preemptive scheduler for mixed ML workloads...",
+        "keywords": "scheduling, gpu, ml systems",
+        "category": "computer_science",
+        "paper_file": "nandakumar_gpu_scheduler.pdf",
+        "submission_time": "2025-09-08 10:12:10"
+      }
+    },
+    {
+      "message": "Paper Submission Successful!",
+      "data": {
+        "author_name": "Leonard Park",
+        "email": "leonard.park@university.edu",
+        "paper_title": "On-Device Models for Gym Occupancy Forecasting",
+        "abstract": "We evaluate lightweight time-series models for predicting facility usage...",
+        "keywords": "edge ai, time-series, forecasting",
+        "category": "computer_science",
+        "paper_file": "park_gym_occupancy.pdf",
+        "submission_time": "2025-09-08 10:13:48"
+      }
+    },
+    {
+      "message": "Paper Submission Successful!",
+      "data": {
+        "author_name": "Caitlin Rivera",
+        "email": "caitlin.rivera@university.edu",
+        "paper_title": "Scaling Transformers with Sparse Mixtures",
+        "abstract": "We propose a sparse routing mechanism...",
+        "keywords": "transformers, sparsity, routing",
+        "category": "computer_science",
+        "paper_file": "rivera_transformers_sparse.pdf",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    }
+  ],
+  "/professional-business/startup-funding": [
+    {
+      "message": "Startup Funding Application Submitted Successfully!",
+      "data": {
+        "company_name": "Acme Robotics, Inc.",
+        "company_website": "https://acmerobotics.example",
+        "founding_date": "2021-03-15",
+        "business_stage": "Early Revenue",
+        "founder_name": "Jordan Patel",
+        "founder_email": "jordan@acmerobotics.example",
+        "founder_phone": "+1-415-555-0134",
+        "linkedin_profile": "https://www.linkedin.com/in/jordanpatel",
+        "funding_amount": "1500000",
+        "equity_offered": "12",
+        "current_valuation": "12000000",
+        "funding_purpose": "Scale manufacturing and expand sales team",
+        "business_model": "Subscription + hardware sales",
+        "target_market": "Warehouse automation for mid-market retailers",
+        "current_revenue": "85000",
+        "team_size": "18",
+        "pitch_deck": "acme_series_a_deck.pdf",
+        "additional_comments": "Warm intro via SeedFund X",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Startup Funding Application Submitted Successfully!",
+      "data": {
+        "company_name": "Kinetiq Fitness Systems, Inc.",
+        "company_website": "https://kinetiq.example",
+        "founding_date": "2022-05-10",
+        "business_stage": "MVP",
+        "founder_name": "Elaine Carter",
+        "founder_email": "elaine@kinetiq.example",
+        "founder_phone": "+1-415-555-0201",
+        "linkedin_profile": "https://www.linkedin.com/in/elainecarter",
+        "funding_amount": "2000000",
+        "equity_offered": "10",
+        "current_valuation": "18000000",
+        "funding_purpose": "Manufacture smart racks; expand SaaS analytics",
+        "business_model": "Hardware + SaaS subscription",
+        "target_market": "Boutique gyms and university rec centers",
+        "current_revenue": "145000",
+        "team_size": "12",
+        "pitch_deck": "kinetiq_series_a.pdf",
+        "additional_comments": "Intro via LiftVentures",
+        "submission_time": "2025-09-08 10:15:37"
+      }
+    },
+    {
+      "message": "Startup Funding Application Submitted Successfully!",
+      "data": {
+        "company_name": "AirFlow Metrics, Inc.",
+        "company_website": "https://airflowmetrics.example",
+        "founding_date": "2023-02-01",
+        "business_stage": "MVP",
+        "founder_name": "Carlos Estevez",
+        "founder_email": "carlos@airflowmetrics.example",
+        "founder_phone": "+1-628-555-0177",
+        "linkedin_profile": "https://www.linkedin.com/in/carlosestevez",
+        "funding_amount": "900000",
+        "equity_offered": "8",
+        "current_valuation": "9000000",
+        "funding_purpose": "HVAC sensors for gyms; certification testing",
+        "business_model": "B2B hardware + monitoring",
+        "target_market": "Commercial fitness chains",
+        "current_revenue": "0",
+        "team_size": "6",
+        "pitch_deck": "airflow_seed_deck.pdf",
+        "additional_comments": "Pilot LOIs from two chains",
+        "submission_time": "2025-09-08 10:16:55"
+      }
+    }
+  ],
+  "/professional-business/rental-application": [
+    {
+      "message": "Real Estate Rental Application Submitted Successfully!",
+      "data": {
+        "full_name": "Caitlin Nguyen",
+        "email": "caitlin.nguyen@example.com",
+        "phone": "+1-510-555-0198",
+        "date_of_birth": "1994-07-21",
+        "current_street": "123 Market St Apt 5A",
+        "current_city": "San Francisco",
+        "current_state": "California",
+        "current_zip": "94103",
+        "employer_name": "Helios Labs",
+        "job_title": "Product Manager",
+        "monthly_income": "9800",
+        "employment_length": "2 years",
+        "preferred_move_date": "2025-10-01",
+        "lease_term": "12",
+        "max_rent": "3800",
+        "preferred_area": "SoMa",
+        "pets": "yes",
+        "pet_details": "1 indoor cat",
+        "references": "Alex Kim — 415-555-1000",
+        "additional_info": "Flexible on move-in by ±2 weeks",
+        "id_proof": "caitlin_id.pdf",
+        "income_proof": "paystubs_q2_2025.pdf",
+        "submission_time": "2025-09-08 21:26:22"
+      }
+    },
+    {
+      "message": "Real Estate Rental Application Submitted Successfully!",
+      "data": {
+        "full_name": "Marcus Lee",
+        "email": "marcus.lee@example.com",
+        "phone": "+1-415-555-0142",
+        "date_of_birth": "1992-03-11",
+        "current_street": "48 Tehama St Apt 2C",
+        "current_city": "San Francisco",
+        "current_state": "California",
+        "current_zip": "94105",
+        "employer_name": "RepPulse",
+        "job_title": "Sales Engineer",
+        "monthly_income": "11500",
+        "employment_length": "3 years",
+        "preferred_move_date": "2025-10-15",
+        "lease_term": "12",
+        "max_rent": "4200",
+        "preferred_area": "Mission Bay",
+        "pets": "no",
+        "pet_details": "",
+        "references": "Liam Carter — 415-555-2211",
+        "additional_info": "Open to 15-month lease",
+        "id_proof": "marcus_id.pdf",
+        "income_proof": "repulse_paystubs_q2_2025.pdf",
+        "submission_time": "2025-09-08 10:18:19"
+      }
+    },
+    {
+      "message": "Real Estate Rental Application Submitted Successfully!",
+      "data": {
+        "full_name": "Isabella Tran",
+        "email": "isabella.tran@example.com",
+        "phone": "+1-650-555-0180",
+        "date_of_birth": "1996-12-02",
+        "current_street": "2100 Broadway Apt 9",
+        "current_city": "Oakland",
+        "current_state": "California",
+        "current_zip": "94612",
+        "employer_name": "Aurora Health",
+        "job_title": "Registered Nurse",
+        "monthly_income": "8200",
+        "employment_length": "4 years",
+        "preferred_move_date": "2025-09-30",
+        "lease_term": "12",
+        "max_rent": "3600",
+        "preferred_area": "SoMa",
+        "pets": "yes",
+        "pet_details": "1 small dog",
+        "references": "Sara Yu — 510-555-3333",
+        "additional_info": "Needs parking",
+        "id_proof": "isabella_id.pdf",
+        "income_proof": "aurora_paystubs_jul_aug_2025.pdf",
+        "submission_time": "2025-09-08 10:19:40"
+      }
+    }
+  ],
+  "/professional-business/membership-application": [
+    {
+      "message": "Membership Application Submitted Successfully!",
+      "data": {
+        "full_name": "Gianna Russo",
+        "email": "gianna.russo@example.com",
+        "phone": "+1-347-555-0108",
+        "date_of_birth": "1990-05-28",
+        "membership_level": "professional",
+        "membership_duration": "1",
+        "education_level": "bachelor",
+        "field_of_study": "Kinesiology",
+        "professional_certifications": "NASM-CPT",
+        "current_employer": "Peak Studio",
+        "job_title": "Head Trainer",
+        "years_experience": "7",
+        "industry": "Fitness",
+        "reference_name": "Aaron Blake",
+        "reference_email": "aaron.blake@example.com",
+        "resume": "gianna_russo_resume.pdf",
+        "credentials": "nasm_cpt.pdf",
+        "code_of_conduct": "on",
+        "information_consent": "on",
+        "submission_time": "2025-09-08 10:21:05"
+      }
+    },
+    {
+      "message": "Membership Application Submitted Successfully!",
+      "data": {
+        "full_name": "Thomas Nguyen",
+        "email": "thomas.nguyen@example.com",
+        "phone": "+1-206-555-0159",
+        "date_of_birth": "1986-01-17",
+        "membership_level": "associate",
+        "membership_duration": "2",
+        "education_level": "master",
+        "field_of_study": "Sports Management",
+        "professional_certifications": "CPR/AED",
+        "current_employer": "Northwest Athletics",
+        "job_title": "Operations Lead",
+        "years_experience": "10",
+        "industry": "Sports",
+        "reference_name": "Megan Ortiz",
+        "reference_email": "megan.ortiz@example.com",
+        "resume": "thomas_nguyen_resume.pdf",
+        "credentials": "cpr_aed_certificate.png",
+        "code_of_conduct": "on",
+        "information_consent": "on",
+        "submission_time": "2025-09-08 10:22:44"
+      }
+    },
+    {
+      "message": "Membership Application Submitted Successfully!",
+      "data": {
+        "full_name": "Rahul Desai",
+        "email": "rahul.desai@example.com",
+        "phone": "+1-206-555-0147",
+        "date_of_birth": "1988-11-02",
+        "membership_level": "professional",
+        "membership_duration": "2",
+        "education_level": "master",
+        "field_of_study": "Electrical Engineering",
+        "professional_certifications": "PMP, AWS Solutions Architect",
+        "current_employer": "Northwind Consulting",
+        "job_title": "Senior Consultant",
+        "years_experience": "9",
+        "industry": "Consulting",
+        "reference_name": "Maria Lopez",
+        "reference_email": "maria.lopez@example.com",
+        "reference_relationship": "Former Manager",
+        "resume": "rahul_desai_resume.pdf",
+        "credentials": "pmp_certificate.png",
+        "code_of_conduct": "on",
+        "information_consent": "on",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    }
+  ],
+  "/arts-creative/exhibition-submission": [
+    {
+      "message": "Art Exhibition Submission Successful!",
+      "data": {
+        "artist_name": "Sofia Alvarez",
+        "email": "sofia.alvarez@example.com",
+        "artwork_title": "City in Bloom",
+        "medium": "painting",
+        "dimensions": "100 x 80 x 5",
+        "year": "2023",
+        "description": "Acrylic on canvas exploring urban renewal",
+        "artwork_image": "city_in_bloom.jpg",
+        "exhibition_period": "summer",
+        "for_sale": "on",
+        "terms": "on",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Art Exhibition Submission Successful!",
+      "data": {
+        "artist_name": "Rina Okada",
+        "email": "rina.okada@example.com",
+        "artwork_title": "Pulse of Motion",
+        "medium": "sculpture",
+        "dimensions": "60 x 40 x 40",
+        "year": "2024",
+        "description": "Steel and resin sculpture inspired by kinetic workouts",
+        "artwork_image": "pulse_of_motion.jpg",
+        "exhibition_period": "winter",
+        "for_sale": "on",
+        "terms": "on",
+        "submission_time": "2025-09-08 10:24:10"
+      }
+    },
+    {
+      "message": "Art Exhibition Submission Successful!",
+      "data": {
+        "artist_name": "Marco D’Angelo",
+        "email": "marco.dangelo@example.com",
+        "artwork_title": "After Hours Gym",
+        "medium": "photography",
+        "dimensions": "120 x 80 x 3",
+        "year": "2024",
+        "description": "Long-exposure series in empty training halls",
+        "artwork_image": "after_hours_gym.jpg",
+        "exhibition_period": "spring",
+        "for_sale": "off",
+        "terms": "on",
+        "submission_time": "2025-09-08 10:25:36"
+      }
+    }
+  ],
+  "/arts-creative/literary-submission": [
+    {
+      "message": "Literary Work Submission Successful!",
+      "data": {
+        "author_name": "Elena Voss",
+        "email": "elena.voss@example.com",
+        "work_title": "Chalk and Echoes",
+        "genre": "non-fiction",
+        "word_count": "3600",
+        "abstract": "Essays on discipline and community in training spaces...",
+        "manuscript": "chalk_and_echoes.pdf",
+        "issue": "winter",
+        "previously_published": "off",
+        "simultaneous_submission": "on",
+        "terms": "on",
+        "submission_time": "2025-09-08 10:27:01"
+      }
+    },
+    {
+      "message": "Literary Work Submission Successful!",
+      "data": {
+        "author_name": "Jamal Rivera",
+        "email": "jamal.rivera@example.com",
+        "work_title": "Rep Count",
+        "genre": "poetry",
+        "word_count": "1200",
+        "abstract": "A cycle of poems about repetition and growth...",
+        "manuscript": "rep_count_poems.pdf",
+        "issue": "spring",
+        "previously_published": "off",
+        "simultaneous_submission": "off",
+        "terms": "on",
+        "submission_time": "2025-09-08 10:28:30"
+      }
+    },
+    {
+      "message": "Literary Work Submission Successful!",
+      "data": {
+        "author_name": "Noah Bennett",
+        "email": "noah.bennett@example.com",
+        "work_title": "Winter's Harbor",
+        "genre": "fiction",
+        "word_count": "4200",
+        "abstract": "A tale of migration and memory...",
+        "manuscript": "winters_harbor.pdf",
+        "issue": "fall",
+        "previously_published": "on",
+        "simultaneous_submission": "on",
+        "terms": "on",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    }
+  ],
+  "/arts-creative/speaker-application": [
+    {
+      "message": "Speaker Application Submitted Successfully!",
+      "data": {
+        "full_name": "Dana Brooks",
+        "email": "dana.brooks@example.com",
+        "phone": "+1-917-555-0102",
+        "organization": "ArtFuture",
+        "presentation_title": "Storytelling with Generative Art",
+        "topic_area": "digital-media",
+        "abstract": "How artists can employ diffusion models...",
+        "learning_objectives": "Understand diffusion; prompt engineering; ethics",
+        "bio": "Curator and digital artist with 10 years' experience.",
+        "cv": "dana_brooks_cv.pdf",
+        "speaking_experience": "SXSW 2023, MoMA PS1 2024",
+        "format": "workshop",
+        "tech_requirements": "HDMI, projector, audio",
+        "terms": "on",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Speaker Application Submitted Successfully!",
+      "data": {
+        "full_name": "Nora Patel",
+        "email": "nora.patel@example.com",
+        "phone": "+1-917-555-0145",
+        "organization": "MoveMind",
+        "presentation_title": "Designing Inclusive Fitness Spaces",
+        "topic_area": "visual-arts",
+        "abstract": "Guidelines and case studies for accessible gym design...",
+        "learning_objectives": "Universal design; wayfinding; materials",
+        "bio": "Architect focused on inclusive public spaces.",
+        "cv": "nora_patel_cv.pdf",
+        "speaking_experience": "AIA 2024, DesignTO 2025",
+        "format": "lecture",
+        "tech_requirements": "HDMI, lapel mic",
+        "terms": "on",
+        "submission_time": "2025-09-08 10:29:59"
+      }
+    },
+    {
+      "message": "Speaker Application Submitted Successfully!",
+      "data": {
+        "full_name": "Victor Huang",
+        "email": "victor.huang@example.com",
+        "phone": "+1-212-555-0199",
+        "organization": "BioMotion Lab",
+        "presentation_title": "Wearables for Real-Time Coaching",
+        "topic_area": "digital-media",
+        "abstract": "Using IMUs and edge inference to coach form...",
+        "learning_objectives": "Sensor fusion; latency; UX for feedback",
+        "bio": "Researcher in human movement analytics.",
+        "cv": "victor_huang_cv.pdf",
+        "speaking_experience": "CHI 2024, NeurIPS Workshops 2024",
+        "format": "workshop",
+        "tech_requirements": "Projector, audio, tables",
+        "terms": "on",
+        "submission_time": "2025-09-08 10:31:21"
+      }
+    }
+  ],
+  "/tech-software/bug-report": [
+    {
+      "message": "Bug Report Submitted Successfully!",
+      "data": {
+        "title": "Profile image upload fails",
+        "severity": "high",
+        "environment": "Testing",
+        "browser": "Edge 95.0 on Windows 10",
+        "steps": "1. Go to profile 2. Click Upload 3. Select image 4. Submit",
+        "expected": "Image uploads and appears on profile",
+        "actual": "Upload fails with no error",
+        "attachments": [
+          "error_screenshot.png",
+          "console_log.txt"
+        ],
+        "reporter": "Ryan Taylor",
+        "email": "ryan.taylor88@example.com",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Bug Report Submitted Successfully!",
+      "data": {
+        "title": "Workout timer desync on iOS",
+        "severity": "medium",
+        "environment": "Production",
+        "browser": "Safari iOS 17.4",
+        "steps": "1. Start HIIT timer 2. Lock screen 3. Unlock after 2 min",
+        "expected": "Timer remains accurate",
+        "actual": "Timer lags by ~7 seconds",
+        "attachments": [
+          "timer_issue.mov",
+          "sysinfo.txt"
+        ],
+        "reporter": "Ana Morales",
+        "email": "ana.morales@example.com",
+        "submission_time": "2025-09-08 10:32:50"
+      }
+    },
+    {
+      "message": "Bug Report Submitted Successfully!",
+      "data": {
+        "title": "Check-in QR not recognized on low light",
+        "severity": "high",
+        "environment": "Staging",
+        "browser": "Chrome 126 on Android 14",
+        "steps": "1. Open scanner 2. Dim lights 3. Scan printed QR",
+        "expected": "Successful scan",
+        "actual": "Scanner fails intermittently",
+        "attachments": [
+          "qr_scan_log.txt",
+          "low_light_sample.jpg"
+        ],
+        "reporter": "Devon Price",
+        "email": "devon.price@example.com",
+        "submission_time": "2025-09-08 10:34:11"
+      }
+    }
+  ],
+  "/tech-software/support-request": [
+    {
+      "message": "IT Support Request Submitted Successfully!",
+      "data": {
+        "requestType": "access",
+        "priority": "high",
+        "subject": "Need CMS admin access",
+        "description": "Please grant admin role to manage blog posts.",
+        "location": "Marketing Department",
+        "affectedUsers": "1",
+        "availableTime": "Mon-Fri 9AM-6PM",
+        "screenshots": [
+          "access_denied.png"
+        ],
+        "requesterName": "Ava Chen",
+        "requesterEmail": "ava.chen@example.com",
+        "phoneNumber": "+1-312-555-0184",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "IT Support Request Submitted Successfully!",
+      "data": {
+        "requestType": "hardware",
+        "priority": "medium",
+        "subject": "Barcode scanner pairing issue",
+        "description": "Front desk scanner drops Bluetooth connection every hour.",
+        "location": "Reception",
+        "affectedUsers": "3",
+        "availableTime": "Mon-Fri 7AM-3PM",
+        "screenshots": [
+          "scanner_settings.png"
+        ],
+        "requesterName": "Marta Silva",
+        "requesterEmail": "marta.silva@example.com",
+        "phoneNumber": "+1-312-555-0193",
+        "submission_time": "2025-09-08 10:35:42"
+      }
+    },
+    {
+      "message": "IT Support Request Submitted Successfully!",
+      "data": {
+        "requestType": "access",
+        "priority": "low",
+        "subject": "Request read-only DB access",
+        "description": "Analytics intern needs SELECT on attendance tables.",
+        "location": "Operations",
+        "affectedUsers": "1",
+        "availableTime": "Tue-Thu 10AM-4PM",
+        "screenshots": [],
+        "requesterName": "Pauline Reed",
+        "requesterEmail": "pauline.reed@example.com",
+        "phoneNumber": "+1-973-555-0166",
+        "submission_time": "2025-09-08 10:36:57"
+      }
+    }
+  ],
+  "/healthcare-medical/insurance-claim": [
+    {
+      "message": "Insurance Claim Form Submitted Successfully!",
+      "data": {
+        "policyNumber": "PN-987654",
+        "policyHolder": "Michael Ortiz",
+        "serviceDate": "2025-01-03",
+        "claimAmount": "1240.50",
+        "serviceType": "procedure",
+        "diagnosis": "ACL reconstruction",
+        "providerName": "CityCare Hospital",
+        "providerNumber": "HSP-44321",
+        "medicalBills": "citycare_bills.pdf",
+        "prescriptions": "post_op_instructions.pdf",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Insurance Claim Form Submitted Successfully!",
+      "data": {
+        "policyNumber": "PN-563210",
+        "policyHolder": "Sara Kim",
+        "serviceDate": "2025-08-29",
+        "claimAmount": "410.00",
+        "serviceType": "consultation",
+        "diagnosis": "Rotator cuff strain",
+        "providerName": "Downtown Sports Clinic",
+        "providerNumber": "HSP-11987",
+        "medicalBills": "sara_kim_bill_aug29.pdf",
+        "prescriptions": "pt_exercises.pdf",
+        "submission_time": "2025-09-08 10:38:23"
+      }
+    },
+    {
+      "message": "Insurance Claim Form Submitted Successfully!",
+      "data": {
+        "policyNumber": "PN-444210",
+        "policyHolder": "Diego Alvarez",
+        "serviceDate": "2025-07-12",
+        "claimAmount": "1285.75",
+        "serviceType": "procedure",
+        "diagnosis": "Meniscus tear repair",
+        "providerName": "Bay Ortho Center",
+        "providerNumber": "HSP-55002",
+        "medicalBills": "diego_surgery_bills.pdf",
+        "prescriptions": "post_op_medications.pdf",
+        "submission_time": "2025-09-08 10:39:55"
+      }
+    }
+  ],
+  "/legal-compliance/contractor-onboarding": [
+    {
+      "message": "Contractor Onboarding Form Submitted Successfully!",
+      "data": {
+        "fullName": "Taylor Morgan",
+        "businessName": "Morgan Dev LLC",
+        "email": "taylor@morgandev.example",
+        "phone": "+1-415-555-0119",
+        "taxId": "12-3456789",
+        "businessType": "llc",
+        "serviceDescription": "Build and maintain internal web portals",
+        "startDate": "2025-02-01",
+        "endDate": "2025-06-30",
+        "w9Form": "w9_taylor_morgan.pdf",
+        "insuranceCert": "morgan_llc_insurance.pdf",
+        "licenseCert": "engineering_license.pdf",
+        "termsAgreed": "on",
+        "confidentialityAgreed": "on",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Contractor Onboarding Form Submitted Successfully!",
+      "data": {
+        "fullName": "Jasmine Park",
+        "businessName": "Park UX Studio",
+        "email": "jasmine@parkux.example",
+        "phone": "+1-415-555-0130",
+        "taxId": "98-7654321",
+        "businessType": "soleProprietor",
+        "serviceDescription": "Redesign member mobile app flows",
+        "startDate": "2025-09-15",
+        "endDate": "2026-01-15",
+        "w9Form": "w9_jasmine_park.pdf",
+        "insuranceCert": "parkux_liability_cert.pdf",
+        "licenseCert": "uxp_license.pdf",
+        "termsAgreed": "on",
+        "confidentialityAgreed": "on",
+        "submission_time": "2025-09-08 10:41:18"
+      }
+    },
+    {
+      "message": "Contractor Onboarding Form Submitted Successfully!",
+      "data": {
+        "fullName": "Arman Chaudhry",
+        "businessName": "AC Electrical",
+        "email": "arman@acelectrical.example",
+        "phone": "+1-510-555-0122",
+        "taxId": "45-1122334",
+        "businessType": "llc",
+        "serviceDescription": "Install lighting for training area expansion",
+        "startDate": "2025-10-01",
+        "endDate": "2025-12-20",
+        "w9Form": "w9_arman_chaudhry.pdf",
+        "insuranceCert": "ac_electric_insurance.pdf",
+        "licenseCert": "contractor_license_ca.pdf",
+        "termsAgreed": "on",
+        "confidentialityAgreed": "on",
+        "submission_time": "2025-09-08 10:42:49"
+      }
+    }
+  ],
+  "/construction-manufacturing/project-bid": [
+    {
+      "message": "Project Bid Submitted Successfully!",
+      "data": {
+        "companyName": "Summit Builders",
+        "licenseNumber": "LIC-CA-778899",
+        "projectName": "Riverview Apartments Phase II",
+        "bidAmount": "3250000",
+        "projectDuration": "24",
+        "startDate": "2025-04-01",
+        "completionDate": "2026-03-15",
+        "workDescription": "Ground-up construction of 6-story mixed-use building",
+        "costBreakdown": "summit_cost_breakdown.xlsx",
+        "schedule": "summit_project_schedule.pdf",
+        "references": "summit_references.pdf",
+        "contactName": "Elena Park",
+        "contactPhone": "+1-213-555-0127",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Project Bid Submitted Successfully!",
+      "data": {
+        "companyName": "IronPeak Construction",
+        "licenseNumber": "LIC-CA-662341",
+        "projectName": "Westside Fitness Annex",
+        "bidAmount": "1875000",
+        "projectDuration": "10",
+        "startDate": "2025-11-01",
+        "completionDate": "2026-08-15",
+        "workDescription": "Annex build with reinforced floor and HVAC upgrades",
+        "costBreakdown": "ironpeak_costs.xlsx",
+        "schedule": "ironpeak_schedule.pdf",
+        "references": "ironpeak_refs.pdf",
+        "contactName": "Samuel Cho",
+        "contactPhone": "+1-213-555-0175",
+        "submission_time": "2025-09-08 10:44:11"
+      }
+    },
+    {
+      "message": "Project Bid Submitted Successfully!",
+      "data": {
+        "companyName": "BlueRidge Builders",
+        "licenseNumber": "LIC-CA-701992",
+        "projectName": "Riverview Apartments Phase II—Gym Fit-Out",
+        "bidAmount": "940000",
+        "projectDuration": "6",
+        "startDate": "2025-10-20",
+        "completionDate": "2026-04-20",
+        "workDescription": "Interior gym fit-out: flooring, mirrors, lighting, and lockers",
+        "costBreakdown": "blueridge_fitout_costs.xlsx",
+        "schedule": "blueridge_fitout_schedule.pdf",
+        "references": "blueridge_refs.pdf",
+        "contactName": "Helena Park",
+        "contactPhone": "+1-310-555-0190",
+        "submission_time": "2025-09-08 10:45:36"
+      }
+    }
+  ]
+}

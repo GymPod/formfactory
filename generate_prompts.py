@@ -13,6 +13,7 @@ client = OpenAI(
 
 SYSTEM_PROMPT = """
 Convert the data in the JSON into a clear, natural language prompt for the form. Sentences should be imperative.
+Do not output anything like "leave **dimensions** unspecified. Just say "Leave the remaining fields blank".
 
 ## Examples
 
@@ -103,8 +104,7 @@ Data:
 Natural language prompt:
 Fill out the startup funding form with this information:
 Attach the acme_series_a_deck.pdf file for the pitch deck.
-Leave all other fields blank. 
-Then submit the form
+Leave the remaining fields untouched and then submit the form
 """
 
 

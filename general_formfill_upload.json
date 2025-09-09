@@ -20,7 +20,7 @@
                     "msds.pdf"
                 ]
             },
-            "prompt": "Fill out the order request form with this information:\n\n- Enter **Company**: Orion Aerospace.  \n- Enter **Customer number**: OR\u201155821.  \n- Select **Product type**: custom.  \n- Enter **Product description**: Custom aluminum brackets for payload assembly.  \n- Enter **Quantity**: 500.  \n- Enter **Required date**: 2025\u201105\u201120.  \n- Select **Shipping method**: express.  \n\nAttach the drawing **bracket_drawings.dwg** in the \u201cDrawings\u201d field.  \n\nAttach the files **spec_appendix.pdf** and **msds.pdf** in the \u201cAdditional docs\u201d field.  \n\nLeave all other fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the order request form with this information:  \n- Company: Orion Aerospace  \n- Customer number: OR-55821  \n- Product type: custom  \n- Product description: Custom aluminum brackets for payload assembly  \n- Quantity: 500  \n- Required date: 2025-05-20  \n- Shipping method: express  \n\nAttach the **bracket_drawings.dwg** file as the drawing.  \nAttach **spec_appendix.pdf** and **msds.pdf** in \u201cadditional docs\u201d.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         },
         {
             "message": "Manufacturing Order Request Submitted Successfully!",
@@ -39,7 +39,7 @@
                 "drawings": "duct_panel_layout.dwg",
                 "additionalDocs": "install_guide.pdf"
             },
-            "prompt": "Fill out the order request form with this information:  \n- Company: Northwind HVAC  \n- Customer number: NW-12007  \n- Product type: standard  \n- Product description: Insulated duct panels for air distribution  \n- Quantity: 80  \n- Required date: 2025-07-01  \n- Shipping method: ground  \n\nAttach the **duct_panel_layout.dwg** file as the drawing.  \nAttach **install_guide.pdf** in the \u201cadditional docs\u201d field.  \n\nLeave all other fields blank.  \nThen submit the form."
+            "prompt": "Fill out the order request form with this information:\n\n- Company: Northwind HVAC  \n- Customer number: NW-12007  \n- Product type: standard  \n- Product description: Insulated duct panels for air distribution  \n- Quantity: 80  \n- Required date: 2025-07-01  \n- Shipping method: ground  \n\nAttach the **duct_panel_layout.dwg** drawing.  \nAttach **install_guide.pdf** as an additional document.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         },
         {
             "message": "Manufacturing Order Request Submitted Successfully!",
@@ -58,7 +58,7 @@
                 "drawings": "bracket_mod_v2.dwg",
                 "additionalDocs": "specifications.pdf"
             },
-            "prompt": "Fill out the order request form with this information:  \n- Company: **Peak Fitness Interiors**  \n- Customer number: **PF-33219**  \n- Product type: **modification**  \n- Product description: **Modify mounting brackets for mirror wall**  \n- Quantity: **120**  \n- Required date: **2025-09-22**  \n- Shipping method: **air**  \n\nAttach the file **bracket_mod_v2.dwg** in the \u201cdrawings\u201d field.  \nAttach the file **specifications.pdf** in the \u201cadditional docs\u201d field.  \n\nLeave the fields **dimensions**, **material**, **specifications**, and **quality standards** blank.  \n\nThen submit the form."
+            "prompt": "Fill out the order request form with this information:\n- Company: Peak Fitness Interiors  \n- Customer number: PF-33219  \n- Product type: modification  \n- Product description: Modify mounting brackets for mirror wall  \n- Quantity: 120  \n- Required date: 2025-09-22  \n- Shipping method: air  \n- Attach the **bracket_mod_v2.dwg** drawing.  \n- Attach **specifications.pdf** in \u201cadditional docs\u201d.  \n\nLeave the remaining fields blank.  \nThen submit the form."
         }
     ],
     "/healthcare-medical/insurance-claim": [
@@ -76,7 +76,7 @@
                 "medicalBills": "citycare_bills.pdf",
                 "prescriptions": "post_op_instructions.pdf"
             },
-            "prompt": "Fill out the insurance\u2011claim form with this information:  \n- Policy number: PN\u2011987654  \n- Policy holder: Michael Ortiz  \n- Service date: 2025\u201101\u201103  \n- Claim amount: 1240.50  \n- Service type: procedure  \n- Diagnosis: ACL reconstruction  \n- Provider name: CityCare Hospital  \n- Provider number: HSP\u201144321  \n\nFor \u201cMedical bills,\u201d attach the file **citycare_bills.pdf**.  \nFor \u201cPrescriptions,\u201d attach the file **post_op_instructions.pdf**.  \n\nThen submit the form."
+            "prompt": "Fill out the insurance claim form with this information:\n- Policy number: PN-987654  \n- Policy holder: Michael Ortiz  \n- Service date: 2025-01-03  \n- Claim amount: 1240.50  \n- Service type: procedure  \n- Diagnosis: ACL reconstruction  \n- Provider name: CityCare Hospital  \n- Provider number: HSP-44321  \n\nAttach the file **citycare_bills.pdf** for \u201cMedical bills\u201d.  \nAttach the file **post_op_instructions.pdf** for \u201cPrescriptions\u201d.  \n\nThen submit the form."
         },
         {
             "message": "Insurance Claim Form Submitted Successfully!",
@@ -92,7 +92,7 @@
                 "medicalBills": "s_lee_bills.pdf",
                 "prescriptions": "prescriptions_0.pdf"
             },
-            "prompt": "Fill out the **insurance claim** form with this information:  \n- **Policy number:** PN-111203  \n- **Policy holder:** Samantha\u00a0Lee  \n- **Service date:** 2025\u201107\u201112  \n- **Claim amount:** 285.00  \n- **Service type:** consultation  \n- **Diagnosis:** Annual physical  \n- **Provider name:** Bayview Clinic  \n- **Provider number:** HSP-99221  \n\nFor **Medical bills**, attach the file **s_lee_bills.pdf**.  \nFor **Prescriptions**, attach the file **prescriptions_0.pdf**.  \n\n**Then submit the form.**"
+            "prompt": "Fill out the insurance claim form with this information:  \n- Policy number: PN-111203  \n- Policy holder: Samantha\u00a0Lee  \n- Service date: 2025\u201107\u201112  \n- Claim amount: 285.00  \n- Service type: consultation  \n- Diagnosis: Annual physical  \n- Provider name: Bayview Clinic  \n- Provider number: HSP\u201199221  \n\nFor \u201cMedical bills,\u201d attach **s_lee_bills.pdf**.  \nFor \u201cPrescriptions,\u201d attach **prescriptions_0.pdf**.  \n\nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Insurance Claim Form Submitted Successfully!",
@@ -108,7 +108,7 @@
                 "medicalBills": "diego_surgery_bills.pdf",
                 "prescriptions": "diego_post_op_medications.pdf"
             },
-            "prompt": "Fill out the insurance\u2011claim form with this information:  \n- Policy number: **PN-444210**  \n- Policy holder: **Diego\u202fAlvarez**  \n- Service date: **2025\u201107\u201112**  \n- Claim amount: **1285.75**  \n- Service type: **procedure**  \n- Diagnosis: **Meniscus tear repair**  \n- Provider name: **Bay Ortho Center**  \n- Provider number: **HSP\u201155002**  \n\nFor \u201cMedical bills\u201d, attach **diego_surgery_bills.pdf**.  \nFor \u201cPrescriptions\u201d, attach **diego_post_op_medications.pdf**.  \n\nThen submit the form."
+            "prompt": "Fill out the insurance claim form with this information:\n- Policy number: PN-444210  \n- Policy holder: Diego Alvarez  \n- Service date: 2025-07-12  \n- Claim amount: 1285.75  \n- Service type: procedure  \n- Diagnosis: Meniscus tear repair  \n- Provider name: Bay Ortho Center  \n- Provider number: HSP-55002  \n\nFor \u201cMedical bills\u201d, attach **diego_surgery_bills.pdf**.  \nFor \u201cPrescriptions\u201d, attach **diego_post_op_medications.pdf**.  \n\nThen submit the form."
         }
     ],
     "/legal-compliance/contractor-onboarding": [
@@ -130,7 +130,7 @@
                 "termsAgreed": "on",
                 "confidentialityAgreed": "on"
             },
-            "prompt": "Fill out the form with this information:\n\n- Enter **Taylor Morgan** as the full name.  \n- Leave the business name field blank.  \n- Enter **taylor@morgandev.example** as the email address.  \n- Enter **+1\u2011415\u2011555\u20110119** as the phone number.  \n- Enter **12\u20113456789** as the tax ID.  \n- Select **llc** as the business type.  \n- Describe the service as **Build and maintain internal web portals**.  \n- Enter **2025\u201102\u201101** as the start date.  \n- Leave the end date field blank.  \n- For the \u201cW\u20119 Form\u201d field, attach the file **w9_taylor_morgan.pdf**.  \n- For the \u201cInsurance Certificate\u201d field, attach the file **morgan_llc_insurance.pdf**.  \n- For the \u201cLicense Certificate\u201d field, attach the file **engineering_license.pdf**.  \n- Mark the terms as agreed.  \n- Mark the confidentiality agreement as agreed.  \n\nThen submit the form."
+            "prompt": "Fill out the with this information:\n- Full name: Taylor Morgan  \n- Email: taylor@morgandev.example  \n- Phone: +1-415-555-0119  \n- Tax ID: 12-3456789  \n- Business type: llc  \n- Service description: Build and maintain internal web portals  \n- Start date: 2025-02-01  \n\nAttach the **w9_taylor_morgan.pdf** file for the W\u20119 form.  \nAttach the **morgan_llc_insurance.pdf** file for the insurance certificate.  \nAttach the **engineering_license.pdf** file for the license certificate.  \n\nCheck the \u201cTerms agreed\u201d box.  \nCheck \u201cConfidentiality agreed\u201d box.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         },
         {
             "message": "Contractor Onboarding Form Submitted Successfully!",
@@ -150,7 +150,7 @@
                 "termsAgreed": "on",
                 "confidentialityAgreed": "on"
             },
-            "prompt": "Fill out the contract request form with this information:\n\n- Enter **Full name**: Jasmine Park  \n- Enter **Email**: jasmine@parkux.example  \n- Enter **Phone**: +1-415-555-0130  \n- Enter **Tax ID**:\u202f98\u20117654321  \n- Enter **Business type**: soleProprietor  \n- Enter **Service description**: Redesign member mobile app flows  \n- Enter **Start date**:\u202f2025\u201109\u201115  \n\n- For the **W\u20119 Form** field, attach the file **w9_jasmine_park.pdf**.  \n- For the **Insurance Certificate** field, attach the file **parkux_liability_cert.pdf**.  \n- For the **License Certificate** field, attach the file **uxp_license.pdf**.  \n\n- Mark **Terms agreed** as \u201con\u201d.  \n- Mark **Confidentiality agreed** as \u201con\u201d.  \n\nLeave all other fields blank, then submit the form."
+            "prompt": "Fill out the service request form with this information:  \n\n- Full name: Jasmine\u202fPark  \n-: jasmine@parkux.example  \n- Phone: +1-415-555-0130  \n- Tax ID: 98\u20117654321  \n- Business type: soleProprietor  \n- Service description: Redesign member mobile app flows  \n- Start date: 2025\u201109\u201115  \n\nAttach **w9_jasmine_park.pdf** for the W\u20119 form.  \nAttach **parkux_liability_cert.pdf** for the insurance certificate.  \nAttach **uxp_license.pdf** for the license certificate.  \n\nCheck the boxes for \u201cTerms agreed\u201d and \u201cConfidentiality agreed\u201d.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         },
         {
             "message": "Contractor Onboarding Form Submitted Successfully!",
@@ -170,7 +170,7 @@
                 "termsAgreed": "on",
                 "confidentialityAgreed": "on"
             },
-            "prompt": "Fill out the service contract form with this information:  \n\n- Full name: Arman Chaudhry  \n- Email: arman@acelectrical.example  \n- Phone: +1-510-555-0122  \n- Tax ID: 45-1122334  \n- Business type: llc  \n- Service description: Install lighting for training area expansion  \n- Start date: 2025\u201110\u201101  \n\nLeave the Business name, End date, and any other empty fields blank.  \n\n- Attach the file **w9_arman_chaudhry.pdf** for the W\u20119 form.  \n- Attach the file **ac_electric_insurance.pdf** for the insurance certificate.  \n- Attach the file **contractor_license_ca.pdf** for the license certificate.  \n\nCheck the \u201cTerms agreed\u201d box and the \u201cConfidentiality agreed\u201d box.  \n\nThen submit the form."
+            "prompt": "Fill out the vendor request form with this information:\n\n- Full name: Arman Chaudhry  \n- Email: arman@acelectrical.example  \n- Phone: +1\u2011510\u2011555\u20110122  \n- Tax ID: 45\u20111122334  \n- Business type: LLC  \n- Service description: Install lighting for training area expansion  \n- Start date: 2025\u201110\u201101  \n\nFor **W9 Form**, attach **w9_arman_chaudhry.pdf**.  \nFor **Insurance Certificate**, attach **ac_electric_insurance.pdf**.  \nFor **License Certificate**, attach **contractor_license_ca.pdf**.  \n\nBoth **Terms agreed** and **Confidentiality agreed** are set to \u201con\u201d.  \n\nLeave the remaining fields blank, then submit the form."
         }
     ],
     "/construction-manufacturing/project-bid": [
@@ -191,7 +191,7 @@
                 "contactName": "Elena Park",
                 "contactPhone": "+1-213-555-0127"
             },
-            "prompt": "Fill out the bid submission form with this information:  \nCompany: Summit Builders  \nLicense number: LIC\u2011CA\u2011778899  \nProject name: Riverview Apartments Phase II  \nBid amount: 3,250,000  \nProject duration (months): 24  \nStart date: 2025\u201104\u201101  \nCompletion date: 2026\u201103\u201115  \nWork description: Ground\u2011up construction of 6\u2011story mixed\u2011use building  \n\nAttach the file **summit_cost_breakdown.xlsx** for \u201cCost breakdown\u201d.  \nAttach the file **summit_project_schedule.pdf** for \u201cSchedule\u201d.  \nAttach the file **summit_references.pdf** for \u201cReferences\u201d.  \n\nContact name: Elena Park  \nContact phone: +1\u2011213\u2011555\u20110127  \n\nThen submit the form."
+            "prompt": "Fill out the bid submission form with this information:\n- Company name: Summit Builders  \n- License number: LIC-CA-778899  \n- Project name: Riverview Apartments Phase\u202fII  \n- Bid amount: 3\u202f250\u202f000  \n- Project duration: 24 months  \n- Start date: 2025\u201104\u201101  \n- Completion date: 2026\u201103\u201115  \n- Work description: Ground\u2011up construction of a 6\u2011story mixed\u2011use building  \n- Attach **summit_cost_breakdown.xlsx** as the cost breakdown.  \n- Attach **summit_project_schedule.pdf** as the schedule.  \n- Attach **summit_references.pdf** as the references.  \n- Contact name: Elena\u202fPark  \n- Contact phone: +1\u2011213\u2011555\u20110127  \n\nThen submit the form."
         },
         {
             "message": "Project Bid Submitted Successfully!",
@@ -210,7 +210,7 @@
                 "contactName": "Samuel Cho",
                 "contactPhone": "+1-213-555-0175"
             },
-            "prompt": "Fill out the bid submission form with this information:\n- Company name: IronPeak Construction  \n- License number: LIC\u2011CA\u2011662341  \n- Project name: Westside Fitness Annex  \n- Bid amount: 1,875,000  \n- Project duration (months): 10  \n- Start date: 2025\u201111\u201101  \n- Completion date: 2026\u201108\u201115  \n- Work description: Annex build with reinforced floor and HVAC upgrades  \n- Contact name: Samuel Cho  \n- Contact phone: +1\u2011213\u2011555\u20110175  \n\nAttach the following documents:\n- For \u201cCost breakdown\u201d, attach **ironpeak_costs.xlsx**.  \n- For \u201cSchedule\u201d, attach **ironpeak_schedule.pdf**.  \n- For \u201cReferences\u201d, attach **ironpeak_refs.pdf**.  \n\nLeave any fields not listed above blank.  \nThen submit the form."
+            "prompt": "Fill out the bid submission form with this information:\n- Company name: IronPeak Construction  \n- License number: LIC-CA-662341  \n- Project name: Westside Fitness Annex  \n- Bid amount: 1875000  \n- Project duration: 10  \n- Start date: 2025\u201111\u201101  \n- Completion date: 2026\u201108\u201115  \n- Work description: Annex build with reinforced floor and HVAC upgrades  \n\nAttach the **ironpeak_costs.xlsx** file for \u201ccost breakdown\u201d.  \nAttach the **ironpeak_schedule.pdf** file for \u201cschedule\u201d.  \nAttach the **ironpeak_refs.pdf** file for \u201creferences\u201d.  \n\n- Contact name: Samuel Cho  \n- Contact phone: +1\u2011213\u2011555\u20110175  \n\nThen submit the form."
         },
         {
             "message": "Project Bid Submitted Successfully!",
@@ -229,7 +229,7 @@
                 "contactName": "Helena Park",
                 "contactPhone": "+1-310-555-0190"
             },
-            "prompt": "Fill out the construction\u2011bid form with this information:  \n- Company name: **BlueRidge Builders**  \n- License number: **LIC-CA-701992**  \n- Project name: **Riverview Apartments Phase\u202fII\u2014Gym Fit\u2011Out**  \n- Bid amount: **940\u202f000**  \n- Project duration (months): **6**  \n- Start date: **2025\u201110\u201120**  \n- Completion date: **2026\u201104\u201120**  \n- Work description: **Interior gym fit\u2011out: flooring, mirrors, lighting, and lockers**  \n\nAttach the following files:  \n- For **Cost breakdown**, upload **blueridge_fitout_costs.xlsx**.  \n- For **Schedule**, upload **blueridge_fitout_schedule.pdf**.  \n- For **References**, upload **blueridge_refs.pdf**.  \n\nEnter the contact details:  \n- Contact name: **Helena Park**  \n- Contact phone: **+1\u2011310\u2011555\u20110190**  \n\nThen submit the form."
+            "prompt": "Fill out the bid submission form with this information:  \nCompany: BlueRidge Builders  \nLicense number: LIC-CA-701992  \nProject name: Riverview Apartments Phase\u202fII\u2014Gym Fit\u2011Out  \nBid amount: 940000  \nProject duration: 6 months  \nStart date: 2025\u201110\u201120  \nCompletion date: 2026\u201104\u201120  \nWork description: Interior gym fit\u2011out: flooring, mirrors, lighting, and lockers  \nAttach the **blueridge_fitout_costs.xlsx** file for the cost breakdown.  \nAttach the **blueridge_fitout_schedule.pdf** file for the schedule.  \nAttach the **blueridge_refs.pdf** file for references.  \nContact name: Helena Park  \nContact phone: +1\u2011310\u2011555\u20110190  \n\nLeave the remaining fields blank.  \nThen submit the form."
         }
     ]
 }

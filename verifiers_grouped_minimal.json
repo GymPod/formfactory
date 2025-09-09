@@ -1,0 +1,916 @@
+{
+  "/construction-manufacturing/order-request": [
+    {
+      "message": "Manufacturing Order Request Submitted Successfully!",
+      "data": {
+        "companyName": "Orion Aerospace",
+        "customerNumber": "OR-55821",
+        "productType": "custom",
+        "productDescription": "Custom aluminum brackets for payload assembly",
+        "quantity": "500",
+        "dimensions": "",
+        "material": "",
+        "specifications": "",
+        "qualityStandards": "",
+        "requiredDate": "2025-05-20",
+        "shippingMethod": "express",
+        "drawings": "bracket_drawings.dwg",
+        "additionalDocs": [
+          "spec_appendix.pdf",
+          "msds.pdf"
+        ],
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Manufacturing Order Request Submitted Successfully!",
+      "data": {
+        "companyName": "Northwind HVAC",
+        "customerNumber": "NW-12007",
+        "productType": "standard",
+        "productDescription": "Insulated duct panels for air distribution",
+        "quantity": "80",
+        "dimensions": "",
+        "material": "",
+        "specifications": "",
+        "qualityStandards": "",
+        "requiredDate": "2025-07-01",
+        "shippingMethod": "ground",
+        "drawings": "duct_panel_layout.dwg",
+        "additionalDocs": "install_guide.pdf",
+        "submission_time": "2025-06-02 09:15:10"
+      }
+    },
+    {
+      "message": "Manufacturing Order Request Submitted Successfully!",
+      "data": {
+        "companyName": "Peak Fitness Interiors",
+        "customerNumber": "PF-33219",
+        "productType": "modification",
+        "productDescription": "Modify mounting brackets for mirror wall",
+        "quantity": "120",
+        "dimensions": "",
+        "material": "",
+        "specifications": "",
+        "qualityStandards": "",
+        "requiredDate": "2025-09-22",
+        "shippingMethod": "air",
+        "drawings": "bracket_mod_v2.dwg",
+        "additionalDocs": "specifications.pdf",
+        "submission_time": "2025-08-29 13:41:27"
+      }
+    }
+  ],
+  "/academic-research/student-registration": [
+    {
+      "message": "Student Registration Submitted Successfully!",
+      "data": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": "",
+        "studentId": "",
+        "gpa": "",
+        "major": "",
+        "academicYear": "",
+        "financialAid": "",
+        "familyIncome": "",
+        "achievements": "",
+        "extracurricular": "",
+        "essay": "",
+        "reference1": "",
+        "reference1Email": "",
+        "transcript": "ava_lopez_transcript.pdf",
+        "recommendationLetter": "rec_naomi_reed.pdf",
+        "submission_time": "2025-02-10 11:12:45"
+      }
+    },
+    {
+      "message": "Student Registration Submitted Successfully!",
+      "data": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": "",
+        "studentId": "",
+        "gpa": "",
+        "major": "",
+        "academicYear": "",
+        "financialAid": "",
+        "familyIncome": "",
+        "achievements": "",
+        "extracurricular": "",
+        "essay": "",
+        "reference1": "",
+        "reference1Email": "",
+        "transcript": "ethan_choi_transcript.pdf",
+        "recommendationLetter": "rec_alan_wu.pdf",
+        "submission_time": "2025-03-01 08:03:19"
+      }
+    },
+    {
+      "message": "Student Registration Submitted Successfully!",
+      "data": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": "",
+        "studentId": "",
+        "gpa": "",
+        "major": "",
+        "academicYear": "",
+        "financialAid": "",
+        "familyIncome": "",
+        "achievements": "",
+        "extracurricular": "",
+        "essay": "",
+        "reference1": "",
+        "reference1Email": "",
+        "transcript": "lila_ahmed_transcript.pdf",
+        "recommendationLetter": "rec_priya_shah.pdf",
+        "submission_time": "2025-04-14 16:22:08"
+      }
+    }
+  ],
+  "/academic-research/scholarship-application": [
+    {
+      "message": "Scholarship Application Submitted Successfully!",
+      "data": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": "",
+        "studentId": "",
+        "gpa": "",
+        "major": "",
+        "academicYear": "",
+        "financialAid": "",
+        "familyIncome": "",
+        "achievements": "",
+        "extracurricular": "",
+        "essay": "",
+        "reference1": "",
+        "reference1Email": "",
+        "transcript": "noah_bennett_transcript.pdf",
+        "recommendationLetter": "rec_helen_park.pdf",
+        "submission_time": "2025-02-03 12:01:00"
+      }
+    },
+    {
+      "message": "Scholarship Application Submitted Successfully!",
+      "data": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": "",
+        "studentId": "",
+        "gpa": "",
+        "major": "",
+        "academicYear": "",
+        "financialAid": "",
+        "familyIncome": "",
+        "achievements": "",
+        "extracurricular": "",
+        "essay": "",
+        "reference1": "",
+        "reference1Email": "",
+        "transcript": "maya_rodriguez_transcript.pdf",
+        "recommendationLetter": "rec_dr_zhao.pdf",
+        "submission_time": "2025-03-11 09:44:27"
+      }
+    },
+    {
+      "message": "Scholarship Application Submitted Successfully!",
+      "data": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": "",
+        "studentId": "",
+        "gpa": "",
+        "major": "",
+        "academicYear": "",
+        "financialAid": "",
+        "familyIncome": "",
+        "achievements": "",
+        "extracurricular": "",
+        "essay": "",
+        "reference1": "",
+        "reference1Email": "",
+        "transcript": "omar_singh_transcript.pdf",
+        "recommendationLetter": "rec_prof_banerjee.pdf",
+        "submission_time": "2025-04-28 15:10:52"
+      }
+    }
+  ],
+  "/academic-research/paper-submission": [
+    {
+      "message": "Paper Submission Successful!",
+      "data": {
+        "author_name": "",
+        "email": "",
+        "paper_title": "",
+        "abstract": "",
+        "keywords": "",
+        "category": "",
+        "paper_file": "rivera_transformers_sparse.pdf",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Paper Submission Successful!",
+      "data": {
+        "author_name": "",
+        "email": "",
+        "paper_title": "",
+        "abstract": "",
+        "keywords": "",
+        "category": "",
+        "paper_file": "nandakumar_gpu_scheduler.pdf",
+        "submission_time": "2025-06-12 10:22:33"
+      }
+    },
+    {
+      "message": "Paper Submission Successful!",
+      "data": {
+        "author_name": "",
+        "email": "",
+        "paper_title": "",
+        "abstract": "",
+        "keywords": "",
+        "category": "",
+        "paper_file": "park_gym_occupancy.pdf",
+        "submission_time": "2025-07-08 09:05:11"
+      }
+    }
+  ],
+  "/professional-business/startup-funding": [
+    {
+      "message": "Startup Funding Application Submitted Successfully!",
+      "data": {
+        "company_name": "",
+        "company_website": "",
+        "founding_date": "",
+        "business_stage": "",
+        "founder_name": "",
+        "founder_email": "",
+        "founder_phone": "",
+        "linkedin_profile": "",
+        "funding_amount": "",
+        "equity_offered": "",
+        "current_valuation": "",
+        "funding_purpose": "",
+        "business_model": "",
+        "target_market": "",
+        "current_revenue": "",
+        "team_size": "",
+        "pitch_deck": "acme_series_a_deck.pdf",
+        "additional_comments": "",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Startup Funding Application Submitted Successfully!",
+      "data": {
+        "company_name": "",
+        "company_website": "",
+        "founding_date": "",
+        "business_stage": "",
+        "founder_name": "",
+        "founder_email": "",
+        "founder_phone": "",
+        "linkedin_profile": "",
+        "funding_amount": "",
+        "equity_offered": "",
+        "current_valuation": "",
+        "funding_purpose": "",
+        "business_model": "",
+        "target_market": "",
+        "current_revenue": "",
+        "team_size": "",
+        "pitch_deck": "kinetiq_series_a.pdf",
+        "additional_comments": "",
+        "submission_time": "2025-09-08 10:15:37"
+      }
+    },
+    {
+      "message": "Startup Funding Application Submitted Successfully!",
+      "data": {
+        "company_name": "",
+        "company_website": "",
+        "founding_date": "",
+        "business_stage": "",
+        "founder_name": "",
+        "founder_email": "",
+        "founder_phone": "",
+        "linkedin_profile": "",
+        "funding_amount": "",
+        "equity_offered": "",
+        "current_valuation": "",
+        "funding_purpose": "",
+        "business_model": "",
+        "target_market": "",
+        "current_revenue": "",
+        "team_size": "",
+        "pitch_deck": "prime_intellect.pdf",
+        "additional_comments": "",
+        "submission_time": "2025-09-09 00:38:04"
+      }
+    }
+  ],
+  "/professional-business/rental-application": [
+    {
+      "message": "Real Estate Rental Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "date_of_birth": "",
+        "current_street": "",
+        "current_city": "",
+        "current_state": "",
+        "current_zip": "",
+        "employer_name": "",
+        "job_title": "",
+        "monthly_income": "",
+        "employment_length": "",
+        "preferred_move_date": "",
+        "lease_term": "",
+        "max_rent": "",
+        "preferred_area": "",
+        "pets": "no",
+        "pet_details": "",
+        "references": "",
+        "additional_info": "",
+        "id_proof": "caitlin_id.pdf",
+        "income_proof": "paystubs_q2_2025.pdf",
+        "submission_time": "2025-09-08 21:26:22"
+      }
+    },
+    {
+      "message": "Real Estate Rental Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "date_of_birth": "",
+        "current_street": "",
+        "current_city": "",
+        "current_state": "",
+        "current_zip": "",
+        "employer_name": "",
+        "job_title": "",
+        "monthly_income": "",
+        "employment_length": "",
+        "preferred_move_date": "",
+        "lease_term": "",
+        "max_rent": "",
+        "preferred_area": "",
+        "pets": "no",
+        "pet_details": "",
+        "references": "",
+        "additional_info": "",
+        "id_proof": "marcus_id.pdf",
+        "income_proof": "repulse_paystubs_q2_2025.pdf",
+        "submission_time": "2025-09-08 10:18:19"
+      }
+    },
+    {
+      "message": "Real Estate Rental Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "date_of_birth": "",
+        "current_street": "",
+        "current_city": "",
+        "current_state": "",
+        "current_zip": "",
+        "employer_name": "",
+        "job_title": "",
+        "monthly_income": "",
+        "employment_length": "",
+        "preferred_move_date": "",
+        "lease_term": "",
+        "max_rent": "",
+        "preferred_area": "",
+        "pets": "no",
+        "pet_details": "",
+        "references": "",
+        "additional_info": "",
+        "id_proof": "isabella_id.pdf",
+        "income_proof": "aurora_paystubs_jul_aug_2025.pdf",
+        "submission_time": "2025-09-08 10:19:40"
+      }
+    }
+  ],
+  "/professional-business/membership-application": [
+    {
+      "message": "Membership Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "date_of_birth": "",
+        "membership_level": "",
+        "membership_duration": "",
+        "education_level": "",
+        "field_of_study": "",
+        "professional_certifications": "",
+        "current_employer": "",
+        "job_title": "",
+        "years_experience": "",
+        "industry": "",
+        "reference_name": "",
+        "reference_email": "",
+        "resume": "gianna_russo_resume.pdf",
+        "credentials": "nasm_cpt.pdf",
+        "code_of_conduct": "on",
+        "information_consent": "on",
+        "submission_time": "2025-09-08 10:21:05"
+      }
+    },
+    {
+      "message": "Membership Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "date_of_birth": "",
+        "membership_level": "",
+        "membership_duration": "",
+        "education_level": "",
+        "field_of_study": "",
+        "professional_certifications": "",
+        "current_employer": "",
+        "job_title": "",
+        "years_experience": "",
+        "industry": "",
+        "reference_name": "",
+        "reference_email": "",
+        "resume": "thomas_nguyen_resume.pdf",
+        "credentials": "cpr_aed_certificate.png",
+        "code_of_conduct": "on",
+        "information_consent": "on",
+        "submission_time": "2025-09-08 10:22:44"
+      }
+    },
+    {
+      "message": "Membership Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "date_of_birth": "",
+        "membership_level": "",
+        "membership_duration": "",
+        "education_level": "",
+        "field_of_study": "",
+        "professional_certifications": "",
+        "current_employer": "",
+        "job_title": "",
+        "years_experience": "",
+        "industry": "",
+        "reference_name": "",
+        "reference_email": "",
+        "reference_relationship": "",
+        "resume": "rahul_desai_resume.pdf",
+        "credentials": "pmp_certificate.png",
+        "code_of_conduct": "on",
+        "information_consent": "on",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    }
+  ],
+  "/arts-creative/exhibition-submission": [
+    {
+      "message": "Art Exhibition Submission Successful!",
+      "data": {
+        "artist_name": "",
+        "email": "",
+        "artwork_title": "",
+        "medium": "",
+        "dimensions": "",
+        "year": "",
+        "description": "",
+        "artwork_image": "city_in_bloom.jpg",
+        "exhibition_period": "spring",
+        "for_sale": "",
+        "terms": "",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Art Exhibition Submission Successful!",
+      "data": {
+        "artist_name": "",
+        "email": "",
+        "artwork_title": "",
+        "medium": "",
+        "dimensions": "",
+        "year": "",
+        "description": "",
+        "artwork_image": "pulse_of_motion.jpg",
+        "exhibition_period": "spring",
+        "for_sale": "",
+        "terms": "",
+        "submission_time": "2025-09-08 10:24:10"
+      }
+    },
+    {
+      "message": "Art Exhibition Submission Successful!",
+      "data": {
+        "artist_name": "",
+        "email": "",
+        "artwork_title": "",
+        "medium": "",
+        "dimensions": "",
+        "year": "",
+        "description": "",
+        "artwork_image": "after_hours_gym.jpg",
+        "exhibition_period": "spring",
+        "for_sale": "",
+        "terms": "",
+        "submission_time": "2025-09-08 10:25:36"
+      }
+    }
+  ],
+  "/arts-creative/literary-submission": [
+    {
+      "message": "Literary Work Submission Successful!",
+      "data": {
+        "author_name": "",
+        "email": "",
+        "work_title": "",
+        "genre": "",
+        "word_count": "",
+        "abstract": "",
+        "manuscript": "chalk_and_echoes.pdf",
+        "issue": "spring",
+        "previously_published": "",
+        "simultaneous_submission": "",
+        "terms": "",
+        "submission_time": "2025-09-08 10:27:01"
+      }
+    },
+    {
+      "message": "Literary Work Submission Successful!",
+      "data": {
+        "author_name": "",
+        "email": "",
+        "work_title": "",
+        "genre": "",
+        "word_count": "",
+        "abstract": "",
+        "manuscript": "rep_count_poems.pdf",
+        "issue": "spring",
+        "previously_published": "",
+        "simultaneous_submission": "",
+        "terms": "",
+        "submission_time": "2025-09-08 10:28:30"
+      }
+    },
+    {
+      "message": "Literary Work Submission Successful!",
+      "data": {
+        "author_name": "",
+        "email": "",
+        "work_title": "",
+        "genre": "",
+        "word_count": "",
+        "abstract": "",
+        "manuscript": "winters_harbor.pdf",
+        "issue": "spring",
+        "previously_published": "",
+        "simultaneous_submission": "",
+        "terms": "",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    }
+  ],
+  "/arts-creative/speaker-application": [
+    {
+      "message": "Speaker Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "organization": "",
+        "presentation_title": "",
+        "topic_area": "",
+        "abstract": "",
+        "learning_objectives": "",
+        "bio": "",
+        "cv": "dana_brooks_cv.pdf",
+        "speaking_experience": "",
+        "format": "",
+        "tech_requirements": "",
+        "terms": "",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Speaker Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "organization": "",
+        "presentation_title": "",
+        "topic_area": "",
+        "abstract": "",
+        "learning_objectives": "",
+        "bio": "",
+        "cv": "nora_patel_cv.pdf",
+        "speaking_experience": "",
+        "format": "",
+        "tech_requirements": "",
+        "terms": "",
+        "submission_time": "2025-09-08 10:29:59"
+      }
+    },
+    {
+      "message": "Speaker Application Submitted Successfully!",
+      "data": {
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "organization": "",
+        "presentation_title": "",
+        "topic_area": "",
+        "abstract": "",
+        "learning_objectives": "",
+        "bio": "",
+        "cv": "victor_huang_cv.pdf",
+        "speaking_experience": "",
+        "format": "",
+        "tech_requirements": "",
+        "terms": "",
+        "submission_time": "2025-09-08 10:31:21"
+      }
+    }
+  ],
+  "/tech-software/bug-report": [
+    {
+      "message": "Bug Report Submitted Successfully!",
+      "data": {
+        "title": "",
+        "severity": "",
+        "environment": "",
+        "browser": "",
+        "steps": "",
+        "expected": "",
+        "actual": "",
+        "attachments": [
+          "error_screenshot.png",
+          "console_log.txt"
+        ],
+        "reporter": "",
+        "email": "",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Bug Report Submitted Successfully!",
+      "data": {
+        "title": "",
+        "severity": "",
+        "environment": "",
+        "browser": "",
+        "steps": "",
+        "expected": "",
+        "actual": "",
+        "attachments": [
+          "timer_issue.mov",
+          "sysinfo.txt"
+        ],
+        "reporter": "",
+        "email": "",
+        "submission_time": "2025-09-08 10:32:50"
+      }
+    },
+    {
+      "message": "Bug Report Submitted Successfully!",
+      "data": {
+        "title": "",
+        "severity": "",
+        "environment": "",
+        "browser": "",
+        "steps": "",
+        "expected": "",
+        "actual": "",
+        "attachments": [
+          "qr_scan_log.txt",
+          "low_light_sample.jpg"
+        ],
+        "reporter": "",
+        "email": "",
+        "submission_time": "2025-09-08 10:34:11"
+      }
+    }
+  ],
+  "/tech-software/support-request": [
+    {
+      "message": "IT Support Request Submitted Successfully!",
+      "data": {
+        "requestType": "",
+        "priority": "",
+        "subject": "",
+        "description": "",
+        "location": "",
+        "affectedUsers": "",
+        "availableTime": "",
+        "screenshots": "access_denied.png",
+        "requesterName": "",
+        "requesterEmail": "",
+        "phoneNumber": "",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "IT Support Request Submitted Successfully!",
+      "data": {
+        "requestType": "",
+        "priority": "",
+        "subject": "",
+        "description": "",
+        "location": "",
+        "affectedUsers": "",
+        "availableTime": "",
+        "screenshots": [
+          "scanner_settings.png",
+          "error_message.pdf"
+        ],
+        "requesterName": "",
+        "requesterEmail": "",
+        "phoneNumber": "",
+        "submission_time": "2025-09-08 10:35:42"
+      }
+    }
+  ],
+  "/healthcare-medical/insurance-claim": [
+    {
+      "message": "Insurance Claim Form Submitted Successfully!",
+      "data": {
+        "policyNumber": "PN-987654",
+        "policyHolder": "Michael Ortiz",
+        "serviceDate": "2025-01-03",
+        "claimAmount": "1240.50",
+        "serviceType": "procedure",
+        "diagnosis": "ACL reconstruction",
+        "providerName": "CityCare Hospital",
+        "providerNumber": "HSP-44321",
+        "medicalBills": "citycare_bills.pdf",
+        "prescriptions": "post_op_instructions.pdf",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Insurance Claim Form Submitted Successfully!",
+      "data": {
+        "policyNumber": "PN-111203",
+        "policyHolder": "Samantha Lee",
+        "serviceDate": "2025-07-12",
+        "claimAmount": "285.00",
+        "serviceType": "consultation",
+        "diagnosis": "Annual physical",
+        "providerName": "Bayview Clinic",
+        "providerNumber": "HSP-99221",
+        "medicalBills": "s_lee_bills.pdf",
+        "prescriptions": "prescriptions_0.pdf",
+        "submission_time": "2025-07-18 14:20:05"
+      }
+    },
+    {
+      "message": "Insurance Claim Form Submitted Successfully!",
+      "data": {
+        "policyNumber": "PN-444210",
+        "policyHolder": "Diego Alvarez",
+        "serviceDate": "2025-07-12",
+        "claimAmount": "1285.75",
+        "serviceType": "procedure",
+        "diagnosis": "Meniscus tear repair",
+        "providerName": "Bay Ortho Center",
+        "providerNumber": "HSP-55002",
+        "medicalBills": "diego_surgery_bills.pdf",
+        "prescriptions": "diego_post_op_medications.pdf",
+        "submission_time": "2025-09-08 10:39:55"
+      }
+    }
+  ],
+  "/legal-compliance/contractor-onboarding": [
+    {
+      "message": "Contractor Onboarding Form Submitted Successfully!",
+      "data": {
+        "fullName": "Taylor Morgan",
+        "businessName": "",
+        "email": "taylor@morgandev.example",
+        "phone": "+1-415-555-0119",
+        "taxId": "12-3456789",
+        "businessType": "llc",
+        "serviceDescription": "Build and maintain internal web portals",
+        "startDate": "2025-02-01",
+        "endDate": "",
+        "w9Form": "w9_taylor_morgan.pdf",
+        "insuranceCert": "morgan_llc_insurance.pdf",
+        "licenseCert": "engineering_license.pdf",
+        "termsAgreed": "on",
+        "confidentialityAgreed": "on",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Contractor Onboarding Form Submitted Successfully!",
+      "data": {
+        "fullName": "Jasmine Park",
+        "businessName": "",
+        "email": "jasmine@parkux.example",
+        "phone": "+1-415-555-0130",
+        "taxId": "98-7654321",
+        "businessType": "soleProprietor",
+        "serviceDescription": "Redesign member mobile app flows",
+        "startDate": "2025-09-15",
+        "endDate": "",
+        "w9Form": "w9_jasmine_park.pdf",
+        "insuranceCert": "parkux_liability_cert.pdf",
+        "licenseCert": "uxp_license.pdf",
+        "termsAgreed": "on",
+        "confidentialityAgreed": "on",
+        "submission_time": "2025-09-08 10:41:18"
+      }
+    },
+    {
+      "message": "Contractor Onboarding Form Submitted Successfully!",
+      "data": {
+        "fullName": "Arman Chaudhry",
+        "businessName": "",
+        "email": "arman@acelectrical.example",
+        "phone": "+1-510-555-0122",
+        "taxId": "45-1122334",
+        "businessType": "llc",
+        "serviceDescription": "Install lighting for training area expansion",
+        "startDate": "2025-10-01",
+        "endDate": "",
+        "w9Form": "w9_arman_chaudhry.pdf",
+        "insuranceCert": "ac_electric_insurance.pdf",
+        "licenseCert": "contractor_license_ca.pdf",
+        "termsAgreed": "on",
+        "confidentialityAgreed": "on",
+        "submission_time": "2025-09-08 10:42:49"
+      }
+    }
+  ],
+  "/construction-manufacturing/project-bid": [
+    {
+      "message": "Project Bid Submitted Successfully!",
+      "data": {
+        "companyName": "Summit Builders",
+        "licenseNumber": "LIC-CA-778899",
+        "projectName": "Riverview Apartments Phase II",
+        "bidAmount": "3250000",
+        "projectDuration": "24",
+        "startDate": "2025-04-01",
+        "completionDate": "2026-03-15",
+        "workDescription": "Ground-up construction of 6-story mixed-use building",
+        "costBreakdown": "summit_cost_breakdown.xlsx",
+        "schedule": "summit_project_schedule.pdf",
+        "references": "summit_references.pdf",
+        "contactName": "Elena Park",
+        "contactPhone": "+1-213-555-0127",
+        "submission_time": "2025-01-15 14:32:10"
+      }
+    },
+    {
+      "message": "Project Bid Submitted Successfully!",
+      "data": {
+        "companyName": "IronPeak Construction",
+        "licenseNumber": "LIC-CA-662341",
+        "projectName": "Westside Fitness Annex",
+        "bidAmount": "1875000",
+        "projectDuration": "10",
+        "startDate": "2025-11-01",
+        "completionDate": "2026-08-15",
+        "workDescription": "Annex build with reinforced floor and HVAC upgrades",
+        "costBreakdown": "ironpeak_costs.xlsx",
+        "schedule": "ironpeak_schedule.pdf",
+        "references": "ironpeak_refs.pdf",
+        "contactName": "Samuel Cho",
+        "contactPhone": "+1-213-555-0175",
+        "submission_time": "2025-09-08 10:44:11"
+      }
+    },
+    {
+      "message": "Project Bid Submitted Successfully!",
+      "data": {
+        "companyName": "BlueRidge Builders",
+        "licenseNumber": "LIC-CA-701992",
+        "projectName": "Riverview Apartments Phase II—Gym Fit-Out",
+        "bidAmount": "940000",
+        "projectDuration": "6",
+        "startDate": "2025-10-20",
+        "completionDate": "2026-04-20",
+        "workDescription": "Interior gym fit-out: flooring, mirrors, lighting, and lockers",
+        "costBreakdown": "blueridge_fitout_costs.xlsx",
+        "schedule": "blueridge_fitout_schedule.pdf",
+        "references": "blueridge_refs.pdf",
+        "contactName": "Helena Park",
+        "contactPhone": "+1-310-555-0190",
+        "submission_time": "2025-09-08 10:45:36"
+      }
+    }
+  ]
+}

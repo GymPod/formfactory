@@ -1,0 +1,683 @@
+{
+    "/academic-research/student-registration": [
+        {
+            "message": "Student Registration Submitted Successfully!",
+            "data": {
+                "firstName": "",
+                "middleName": "",
+                "lastName": "",
+                "studentId": "",
+                "gpa": "",
+                "major": "",
+                "academicYear": "",
+                "financialAid": "",
+                "familyIncome": "",
+                "achievements": "",
+                "extracurricular": "",
+                "essay": "",
+                "reference1": "",
+                "reference1Email": "",
+                "transcript": "ava_lopez_transcript.pdf",
+                "recommendationLetter": "rec_naomi_reed.pdf"
+            },
+            "prompt": "Fill out the scholarship\u2011application form with this information:  \n\n- First name: **(leave blank)**  \n- Middle name: **(leave blank)**  \n- Last name: **(leave blank)**  \n- Student ID: **(leave blank)**  \n- GPA: **(leave blank)**  \n- Major: **(leave blank)**  \n- Academic year: **(leave blank)**  \n- Financial aid status: **(leave blank)**  \n- Family income: **(leave blank)**  \n- Achievements: **(leave blank)**  \n- Extracurricular activities: **(leave blank)**  \n- Essay: **(leave blank)**  \n- Reference 1: **(leave blank)**  \n- Reference 1 email: **(leave blank)**  \n\nFor **\u201cTranscript\u201d**, attach the file **\u201cava_lopez_transcript.pdf\u201d**.  \nFor **\u201cRecommendation Letter\u201d**, attach the file **\u201crec_naomi_reed.pdf\u201d**.  \n\nLeave all remaining fields empty and then submit the form."
+        },
+        {
+            "message": "Student Registration Submitted Successfully!",
+            "data": {
+                "firstName": "",
+                "middleName": "",
+                "lastName": "",
+                "studentId": "",
+                "gpa": "",
+                "major": "",
+                "academicYear": "",
+                "financialAid": "",
+                "familyIncome": "",
+                "achievements": "",
+                "extracurricular": "",
+                "essay": "",
+                "reference1": "",
+                "reference1Email": "",
+                "transcript": "ethan_choi_transcript.pdf",
+                "recommendationLetter": "rec_alan_wu.pdf"
+            },
+            "prompt": "Fill out the scholarship application form with this information:  \n\n- First name: (leave blank)  \n- Middle name: (leave blank)  \n- Last name: (leave blank)  \n- Student ID: (leave blank)  \n- GPA: (leave blank)  \n- Major: (leave blank)  \n- Academic year: (leave blank)  \n- Financial aid: (leave blank)  \n- Family income: (leave blank)  \n- Achievements: (leave blank)  \n- Extracurricular activities: (leave blank)  \n- Essay: (leave blank)  \n- Reference\u202f1 name: (leave blank)  \n- Reference\u202f1 email: (leave blank)  \n\nFor **Transcript**, attach the file **ethan_choi_transcript.pdf**.  \nFor **Recommendation Letter**, attach the file **rec_alan_wu.pdf**.  \n\nThen submit the form."
+        },
+        {
+            "message": "Student Registration Submitted Successfully!",
+            "data": {
+                "firstName": "",
+                "middleName": "",
+                "lastName": "",
+                "studentId": "",
+                "gpa": "",
+                "major": "",
+                "academicYear": "",
+                "financialAid": "",
+                "familyIncome": "",
+                "achievements": "",
+                "extracurricular": "",
+                "essay": "",
+                "reference1": "",
+                "reference1Email": "",
+                "transcript": "lila_ahmed_transcript.pdf",
+                "recommendationLetter": "rec_priya_shah.pdf"
+            },
+            "prompt": "Fill out the scholarship application with this information:\n- Attach **lila_ahmed_transcript.pdf** as the transcript.  \n- Attach **rec_priya_shah.pdf** as the recommendation letter.  \n- Leave all other fields blank.  \n\nThen submit the form."
+        }
+    ],
+    "/academic-research/scholarship-application": [
+        {
+            "message": "Scholarship Application Submitted Successfully!",
+            "data": {
+                "firstName": "",
+                "middleName": "",
+                "lastName": "",
+                "studentId": "",
+                "gpa": "",
+                "major": "",
+                "academicYear": "",
+                "financialAid": "",
+                "familyIncome": "",
+                "achievements": "",
+                "extracurricular": "",
+                "essay": "",
+                "reference1": "",
+                "reference1Email": "",
+                "transcript": "noah_bennett_transcript.pdf",
+                "recommendationLetter": "rec_helen_park.pdf"
+            },
+            "prompt": "Fill out the scholarship application form with this information:  \nAttach the **noah_bennett_transcript.pdf** file for the transcript.  \nAttach the **rec_helen_park.pdf** file for the recommendation letter.  \nLeave all other fields blank.  \nThen submit the form."
+        },
+        {
+            "message": "Scholarship Application Submitted Successfully!",
+            "data": {
+                "firstName": "",
+                "middleName": "",
+                "lastName": "",
+                "studentId": "",
+                "gpa": "",
+                "major": "",
+                "academicYear": "",
+                "financialAid": "",
+                "familyIncome": "",
+                "achievements": "",
+                "extracurricular": "",
+                "essay": "",
+                "reference1": "",
+                "reference1Email": "",
+                "transcript": "maya_rodriguez_transcript.pdf",
+                "recommendationLetter": "rec_dr_zhao.pdf"
+            },
+            "prompt": "Fill out the scholarship application form with this information:\n\n- Attach **maya_rodriguez_transcript.pdf** for the transcript.  \n- Attach **rec_dr_zhao.pdf** for the recommendation letter.  \n\nLeave the following fields empty: first name, middle name, last name, student ID, GPA, major, academic year, financial aid status, family income, achievements, extracurricular activities essay, reference 1, and reference\u202f1 email.  \n\nThen submit the form."
+        },
+        {
+            "message": "Scholarship Application Submitted Successfully!",
+            "data": {
+                "firstName": "",
+                "middleName": "",
+                "lastName": "",
+                "studentId": "",
+                "gpa": "",
+                "major": "",
+                "academicYear": "",
+                "financialAid": "",
+                "familyIncome": "",
+                "achievements": "",
+                "extracurricular": "",
+                "essay": "",
+                "reference1": "",
+                "reference1Email": "",
+                "transcript": "omar_singh_transcript.pdf",
+                "recommendationLetter": "rec_prof_banerjee.pdf"
+            },
+            "prompt": "Fill out the scholarship application form with this information:  \n\n- First name: (leave blank)  \n- Middle name: (leave blank)  \n- Last name: (leave blank)  \n- Student ID: (leave blank)  \n- GPA: (leave blank)  \n- Major: (leave blank)  \n- Academic year: (leave blank)  \n- Financial aid status: (leave blank)  \n- Family income: (leave blank)  \n- Achievements: (leave blank)  \n- Extracurricular activities: (leave blank)  \n- Essay: (leave blank)  \n- Reference\u202f1 name: (leave blank)  \n- Reference\u202f1 email: (leave blank)  \n\nFor \u201cTranscript\u201d, attach **omar_singh_transcript.pdf**.  \nFor \u201cRecommendation letter\u201d, attach **rec_prof_banerjee.pdf**.  \n\nLeave all other fields blank.  \n\nThen submit the form."
+        }
+    ],
+    "/academic-research/paper-submission": [
+        {
+            "message": "Paper Submission Successful!",
+            "data": {
+                "author_name": "",
+                "email": "",
+                "paper_title": "",
+                "abstract": "",
+                "keywords": "",
+                "category": "",
+                "paper_file": "rivera_transformers_sparse.pdf"
+            },
+            "prompt": "Fill out the paper\u2011submission form with this information:  \n\nAttach the **rivera_transformers_sparse.pdf** file for the \u201cpaper file\u201d.  \n\nLeave all other fields blank.  \n\nThen submit the form."
+        },
+        {
+            "message": "Paper Submission Successful!",
+            "data": {
+                "author_name": "",
+                "email": "",
+                "paper_title": "",
+                "abstract": "",
+                "keywords": "",
+                "category": "",
+                "paper_file": "nandakumar_gpu_scheduler.pdf"
+            },
+            "prompt": "Fill out the paper submission form with this information:  \n- Author name: (leave blank)  \n- Email: (leave blank)  \n- Paper title: (leave blank)  \n- Abstract: (leave blank)  \n- Keywords: (leave blank)  \n- Category: (leave blank)  \n\nFor \u201cPaper file\u201d, attach **nandakumar_gpu_scheduler.pdf**.  \n\nLeave all other fields empty.  \n\nThen submit the form."
+        },
+        {
+            "message": "Paper Submission Successful!",
+            "data": {
+                "author_name": "",
+                "email": "",
+                "paper_title": "",
+                "abstract": "",
+                "keywords": "",
+                "category": "",
+                "paper_file": "park_gym_occupancy.pdf"
+            },
+            "prompt": "Fill out the paper\u2011submission form with this information:\n\n- **Author name:** leave blank  \n- **Email:** leave blank  \n- **Paper title:** leave blank  \n- **Abstract:** leave blank  \n- **Keywords:** leave blank  \n- **Category:** leave blank  \n\nFor the **paper file** field, attach the file **park_gym_occupancy.pdf**.\n\nLeave all other fields blank, then submit the form."
+        }
+    ],
+    "/professional-business/startup-funding": [
+        {
+            "message": "Startup Funding Application Submitted Successfully!",
+            "data": {
+                "company_name": "",
+                "company_website": "",
+                "founding_date": "",
+                "business_stage": "",
+                "founder_name": "",
+                "founder_email": "",
+                "founder_phone": "",
+                "linkedin_profile": "",
+                "funding_amount": "",
+                "equity_offered": "",
+                "current_valuation": "",
+                "funding_purpose": "",
+                "business_model": "",
+                "target_market": "",
+                "current_revenue": "",
+                "team_size": "",
+                "pitch_deck": "acme_series_a_deck.pdf",
+                "additional_comments": ""
+            },
+            "prompt": "Fill out the startup funding form with this information:\n- Attach the **acme_series_a_deck.pdf** file for the pitch deck.  \n\nLeave all other fields blank.  \n\nThen submit the form."
+        },
+        {
+            "message": "Startup Funding Application Submitted Successfully!",
+            "data": {
+                "company_name": "",
+                "company_website": "",
+                "founding_date": "",
+                "business_stage": "",
+                "founder_name": "",
+                "founder_email": "",
+                "founder_phone": "",
+                "linkedin_profile": "",
+                "funding_amount": "",
+                "equity_offered": "",
+                "current_valuation": "",
+                "funding_purpose": "",
+                "business_model": "",
+                "target_market": "",
+                "current_revenue": "",
+                "team_size": "",
+                "pitch_deck": "kinetiq_series_a.pdf",
+                "additional_comments": ""
+            },
+            "prompt": "Fill out the **startup funding** form with this information:\n\n- **Pitch deck**: attach the file **kinetiq_series_a.pdf**.  \n\nLeave every other field blank.\n\nThen submit the form."
+        },
+        {
+            "message": "Startup Funding Application Submitted Successfully!",
+            "data": {
+                "company_name": "",
+                "company_website": "",
+                "founding_date": "",
+                "business_stage": "",
+                "founder_name": "",
+                "founder_email": "",
+                "founder_phone": "",
+                "linkedin_profile": "",
+                "funding_amount": "",
+                "equity_offered": "",
+                "current_valuation": "",
+                "funding_purpose": "",
+                "business_model": "",
+                "target_market": "",
+                "current_revenue": "",
+                "team_size": "",
+                "pitch_deck": "prime_intellect.pdf",
+                "additional_comments": ""
+            },
+            "prompt": "Fill out the startup funding form with this information:\n- Attach the **prime_intellect.pdf** file for the *Pitch deck* field.\n- Leave all other fields blank.  \nThen submit the form."
+        }
+    ],
+    "/professional-business/rental-application": [
+        {
+            "message": "Real Estate Rental Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "date_of_birth": "",
+                "current_street": "",
+                "current_city": "",
+                "current_state": "",
+                "current_zip": "",
+                "employer_name": "",
+                "job_title": "",
+                "monthly_income": "",
+                "employment_length": "",
+                "preferred_move_date": "",
+                "lease_term": "",
+                "max_rent": "",
+                "preferred_area": "",
+                "pets": "no",
+                "pet_details": "",
+                "references": "",
+                "additional_info": "",
+                "id_proof": "caitlin_id.pdf",
+                "income_proof": "paystubs_q2_2025.pdf"
+            },
+            "prompt": "Fill out the rental\u2011application form with this information:  \n\n- Pets: **no**  \n- Attach **caitlin_id.pdf** in the \u201cID proof\u201d field.  \n- Attach **paystubs_q2_2025.pdf** in the \u201cIncome proof\u201d field.  \n\nLeave every other field (full name, email, phone, date of birth, current address, employer details, income, employment length, preferred move date, lease term, max rent, preferred area, pet details, references, additional info) blank.  \n\nThen submit the form."
+        },
+        {
+            "message": "Real Estate Rental Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "date_of_birth": "",
+                "current_street": "",
+                "current_city": "",
+                "current_state": "",
+                "current_zip": "",
+                "employer_name": "",
+                "job_title": "",
+                "monthly_income": "",
+                "employment_length": "",
+                "preferred_move_date": "",
+                "lease_term": "",
+                "max_rent": "",
+                "preferred_area": "",
+                "pets": "no",
+                "pet_details": "",
+                "references": "",
+                "additional_info": "",
+                "id_proof": "marcus_id.pdf",
+                "income_proof": "repulse_paystubs_q2_2025.pdf"
+            },
+            "prompt": "Fill out the rental application form with the following information:\n\n- Full name: (leave blank)  \n- Email: (leave blank)  \n- Phone: (leave blank)  \n- Date of birth: (leave blank)  \n- Current street: (leave blank)  \n- Current city: (leave blank)  \n- Current state: (leave blank)  \n- Current ZIP: (leave blank)  \n- Employer name: (leave blank)  \n- Job title: (leave blank)  \n- Monthly income: (leave blank)  \n- Employment length: (leave blank)  \n- Preferred move\u2011in date: (leave blank)  \n- Lease term: (leave blank)  \n- Maximum rent: (leave blank)  \n- Preferred area: (leave blank)  \n- Pets: no  \n- Pet details: (leave blank)  \n- References: (leave blank)  \n- Additional info: (leave blank)  \n\nAttach the **marcus_id.pdf** file for the \u201cID proof\u201d field.  \nAttach the **repulse_paystubs_q2_2025.pdf** file for the \u201cIncome proof\u201d field.  \n\nThen submit the form."
+        },
+        {
+            "message": "Real Estate Rental Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "date_of_birth": "",
+                "current_street": "",
+                "current_city": "",
+                "current_state": "",
+                "current_zip": "",
+                "employer_name": "",
+                "job_title": "",
+                "monthly_income": "",
+                "employment_length": "",
+                "preferred_move_date": "",
+                "lease_term": "",
+                "max_rent": "",
+                "preferred_area": "",
+                "pets": "no",
+                "pet_details": "",
+                "references": "",
+                "additional_info": "",
+                "id_proof": "isabella_id.pdf",
+                "income_proof": "aurora_paystubs_jul_aug_2025.pdf"
+            },
+            "prompt": "Fill out the rental\u2011application form with this information:\n\n* Full name \u2013 leave blank.  \n* Email \u2013 leave blank.  \n* Phone \u2013 leave blank.  \n* Date of birth \u2013 leave blank.  \n* Current street \u2013 leave blank.  \n* Current city \u2013 leave blank.  \n* Current state \u2013 leave blank.  \n* Current ZIP \u2013 leave blank.  \n* Employer name \u2013 leave blank.  \n* Job title \u2013 leave blank.  \n* Monthly income \u2013 leave blank.  \n* Employment length \u2013 leave blank.  \n* Preferred move\u2011date \u2013 leave blank.  \n* Lease term \u2013 leave blank.  \n* Max rent \u2013 leave blank.  \n* Preferred area \u2013 leave blank.  \n* Pets \u2013 set to **no**.  \n* Pet details \u2013 leave blank.  \n* References \u2013 leave blank.  \n* Additional info \u2013 leave blank.  \n\nFor **ID proof**, attach the file **isabella_id.pdf**.  \nFor **Income proof**, attach the file **aurora_paystubs_jul_aug_2025.pdf**.  \n\nThen submit the form."
+        }
+    ],
+    "/professional-business/membership-application": [
+        {
+            "message": "Membership Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "date_of_birth": "",
+                "membership_level": "",
+                "membership_duration": "",
+                "education_level": "",
+                "field_of_study": "",
+                "professional_certifications": "",
+                "current_employer": "",
+                "job_title": "",
+                "years_experience": "",
+                "industry": "",
+                "reference_name": "",
+                "reference_email": "",
+                "resume": "gianna_russo_resume.pdf",
+                "credentials": "nasm_cpt.pdf",
+                "code_of_conduct": "on",
+                "information_consent": "on"
+            },
+            "prompt": "Fill out the form with this information:\n\n- Full name: *(leave blank)*\n- Email: *(leave blank)*\n- Phone: *(leave blank)*\n- Date of birth: *(leave blank)*\n- Membership level: *(leave blank)*\n- Membership duration: *(leave blank)*\n- Education level: *(leave blank)*\n- Field of study: *(leave blank)*\n- Professional certifications: *(leave blank)*\n- Current employer: *(leave blank)*\n- Job title: *(leave blank)*\n- Years of experience: *(leave blank)*\n- Industry: *(leave blank)*\n- Reference name: *(leave blank)*\n- Reference email: *(leave blank)*\n- Attach the file **gianna_russo_resume.pdf** as the resume.\n- Attach the file **nasm_cpt.pdf** as the credentials.\n- Check the \u201cCode of Conduct\u201d box.\n- Check the \u201cInformation Consent\u201d box.\n\nLeave all other fields empty, then submit the form."
+        },
+        {
+            "message": "Membership Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "date_of_birth": "",
+                "membership_level": "",
+                "membership_duration": "",
+                "education_level": "",
+                "field_of_study": "",
+                "professional_certifications": "",
+                "current_employer": "",
+                "job_title": "",
+                "years_experience": "",
+                "industry": "",
+                "reference_name": "",
+                "reference_email": "",
+                "resume": "thomas_nguyen_resume.pdf",
+                "credentials": "cpr_aed_certificate.png",
+                "code_of_conduct": "on",
+                "information_consent": "on"
+            },
+            "prompt": "Fill out the form with this information:\n\n- Leave **Full name** blank.  \n- Leave **Email** blank.  \n- Leave **Phone** blank.  \n- Leave **Date of birth** blank.  \n- Leave **Membership level** blank.  \n- Leave **Membership duration** blank.  \n- Leave **Education level** blank.  \n- Leave **Field of study** blank.  \n- Leave **Professional certifications** blank.  \n- Leave **Current employer** blank.  \n- Leave **Job title** blank.  \n- Leave **Years experience** blank.  \n- Leave **Industry** blank.  \n- Leave **Reference name** blank.  \n- Leave **Reference email** blank.  \n\n- For the \u201cResume\u201d field, attach **thomas_nguyen_resume.pdf**.  \n- For the \u201cCredentials\u201d field, attach **cpr_aed_certificate.png**.  \n\n- Check the **Code of conduct** box.  \n- Check the **Information consent** box.  \n\nThen submit the form."
+        },
+        {
+            "message": "Membership Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "date_of_birth": "",
+                "membership_level": "",
+                "membership_duration": "",
+                "education_level": "",
+                "field_of_study": "",
+                "professional_certifications": "",
+                "current_employer": "",
+                "job_title": "",
+                "years_experience": "",
+                "industry": "",
+                "reference_name": "",
+                "reference_email": "",
+                "reference_relationship": "",
+                "resume": "rahul_desai_resume.pdf",
+                "credentials": "pmp_certificate.png",
+                "code_of_conduct": "on",
+                "information_consent": "on"
+            },
+            "prompt": "Fill out the form with this information:\n\n- **Full name:** (leave blank)  \n- **Email:** (leave blank)  \n- **Phone:** (leave blank)  \n- **Date of birth:** (leave blank)  \n- **Membership level:** (leave blank)  \n- **Membership duration:** (leave blank)  \n- **Education level:** (leave blank)  \n- **Field of study:** (leave blank)  \n- **Professional certifications:** (leave blank)  \n- **Current employer:** (leave blank)  \n- **Job title:** (leave blank)  \n- **Years experience:** (leave blank)  \n- **Industry:** (leave blank)  \n- **Reference name:** (leave blank)  \n- **Reference email:** (leave blank)  \n- **Reference relationship:** (leave blank)  \n\n- For **Resume**, attach the file **rahul_desire_resume.pdf**.  \n- For **Credentials**, attach the image **pmp_certificate.png**.  \n- Set **Code of conduct** to **on**.  \n- Set **Information consent** to **on**.  \n\nLeave all other fields blank, then submit the form."
+        }
+    ],
+    "/arts-creative/exhibition-submission": [
+        {
+            "message": "Art Exhibition Submission Successful!",
+            "data": {
+                "artist_name": "",
+                "email": "",
+                "artwork_title": "",
+                "medium": "",
+                "dimensions": "",
+                "year": "",
+                "description": "",
+                "artwork_image": "city_in_bloom.jpg",
+                "exhibition_period": "spring",
+                "for_sale": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the artwork submission form with this information:  \nSet the exhibition period to **spring**.  \nAttach the file **city_in_bloom.jpg** for the \u201cartwork image\u201d.  \nLeave all other fields (artist name, email, artwork title, medium, dimensions, year, description, for sale, terms) blank.  \nThen submit the form."
+        },
+        {
+            "message": "Art Exhibition Submission Successful!",
+            "data": {
+                "artist_name": "",
+                "email": "",
+                "artwork_title": "",
+                "medium": "",
+                "dimensions": "",
+                "year": "",
+                "description": "",
+                "artwork_image": "pulse_of_motion.jpg",
+                "exhibition_period": "spring",
+                "for_sale": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the artwork submission form with this information:  \n- Attach the **pulse_of_motion.jpg** file for the\u202f*artwork image*.  \n- Set *exhibition period* to **spring**.  \n\nLeave every other field blank.  \n\nThen submit the form."
+        },
+        {
+            "message": "Art Exhibition Submission Successful!",
+            "data": {
+                "artist_name": "",
+                "email": "",
+                "artwork_title": "",
+                "medium": "",
+                "dimensions": "",
+                "year": "",
+                "description": "",
+                "artwork_image": "after_hours_gym.jpg",
+                "exhibition_period": "spring",
+                "for_sale": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the art\u2011submission form with this information:  \n\n- For \u201cArtwork image\u201d, attach **after_hours_gym.jpg**.  \n- For \u201cExhibition period\u201d, enter **spring**.  \n\nLeave every other field blank.  \nThen submit the form."
+        }
+    ],
+    "/arts-creative/literary-submission": [
+        {
+            "message": "Literary Work Submission Successful!",
+            "data": {
+                "author_name": "",
+                "email": "",
+                "work_title": "",
+                "genre": "",
+                "word_count": "",
+                "abstract": "",
+                "manuscript": "chalk_and_echoes.pdf",
+                "issue": "spring",
+                "previously_published": "",
+                "simultaneous_submission": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the manuscript\u2011submission form with this information:\n\n- Attach the **chalk_and_echoes.pdf** file for the \u201cManuscript\u201d.\n- For \u201cIssue\u201d, select **spring**.\n\nLeave all other fields (author name, email, work title, word count, abstract, previously published, simultaneous submission, terms) blank.  \n\nThen submit the form."
+        },
+        {
+            "message": "Literary Work Submission Successful!",
+            "data": {
+                "author_name": "",
+                "email": "",
+                "work_title": "",
+                "genre": "",
+                "word_count": "",
+                "abstract": "",
+                "manuscript": "rep_count_poems.pdf",
+                "issue": "spring",
+                "previously_published": "",
+                "simultaneous_submission": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the manuscript submission form with this information:\n\n- **Author name**: _(leave blank)_\n- **Email**: _(leave blank)_\n- **Work title**: _(leave blank)_\n- **Genre**: _(leave blank)_\n- **Word count**: _(leave blank)_\n- **Abstract**: _(leave blank)_\n- **Manuscript**: attach **rep_count_poems.pdf**  \n- **Issue**: spring  \n- **Previously published**: _(leave blank)_  \n- **Simultaneous submission**: _(leave blank)_  \n- **Terms**: _(leave blank)_  \n\nThen submit the form."
+        },
+        {
+            "message": "Literary Work Submission Successful!",
+            "data": {
+                "author_name": "",
+                "email": "",
+                "work_title": "",
+                "genre": "",
+                "word_count": "",
+                "abstract": "",
+                "manuscript": "winters_harbor.pdf",
+                "issue": "spring",
+                "previously_published": "",
+                "simultaneous_submission": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the manuscript submission form with this information:  \n\n- Attach the **winters_harbor.pdf** file for the manuscript.  \n- For \u201cIssue\u201d, enter **spring**.  \n\nLeave all other fields (author name, email, work title, genre, word count, abstract, previously published, simultaneous submission, terms) blank.  \n\nThen submit the form."
+        }
+    ],
+    "/arts-creative/speaker-application": [
+        {
+            "message": "Speaker Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "organization": "",
+                "presentation_title": "",
+                "topic_area": "",
+                "abstract": "",
+                "learning_objectives": "",
+                "bio": "",
+                "cv": "dana_brooks_cv.pdf",
+                "speaking_experience": "",
+                "format": "",
+                "tech_requirements": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the speaker\u2011proposal form with this information:  \n- For **CV**, attach the file **dana_bropos_cv.pdf**.  \n- Leave every other field (full name, email, phone, organization, presentation title, topic area, abstract, learning objectives, bio, speaking experience, format, tech requirements, terms) blank.  \n\nThen submit the form."
+        },
+        {
+            "message": "Speaker Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "organization": "",
+                "presentation_title": "",
+                "topic_area": "",
+                "abstract": "",
+                "learning_objectives": "",
+                "bio": "",
+                "cv": "nora_patel_cv.pdf",
+                "speaking_experience": "",
+                "format": "",
+                "tech_requirements": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the speaker\u2011proposal form with this information:  \n- Full name: *(leave blank)*  \n- Email: *(leave blank)*  \n- Phone: *(leave blank)*  \n- Organization: *(leave blank)*  \n- Presentation title: *(leave blank)*  \n- Topic area: *(leave blank)*  \n- Abstract: *(leave blank)*  \n- Learning objectives: *(leave blank)*  \n- Bio: *(leave blank)*  \n- For \u201cCV\u201d, attach **nora_patel_cv.pdf**.  \n- Speaking experience: *(leave blank)*  \n- Format: *(leave blank)*  \n- Tech requirements: *(leave blank)*  \n- Terms: *(leave blank)*  \n\nThen submit the form."
+        },
+        {
+            "message": "Speaker Application Submitted Successfully!",
+            "data": {
+                "full_name": "",
+                "email": "",
+                "phone": "",
+                "organization": "",
+                "presentation_title": "",
+                "topic_area": "",
+                "abstract": "",
+                "learning_objectives": "",
+                "bio": "",
+                "cv": "victor_huang_cv.pdf",
+                "speaking_experience": "",
+                "format": "",
+                "tech_requirements": "",
+                "terms": ""
+            },
+            "prompt": "Fill out the speaker proposal form with this information:  \n\n- Full name: (leave blank)  \n- Email: (leave blank)  \n- Phone: (leave blank)  \n- Organization: (leave blank)  \n- Presentation title: (leave blank)  \n- Topic area: (leave blank)  \n- Abstract: (leave blank)  \n- Learning objectives: (leave blank)  \n- Bio: (leave blank)  \n- For \u201cCV\u201d, attach **victor_huang_cv.pdf**.  \n- Speaking experience: (leave blank)  \n- Format: (leave blank)  \n- Tech requirements: (leave blank)  \n- Terms: (leave blank)  \n\nThen submit the form."
+        }
+    ],
+    "/tech-software/bug-report": [
+        {
+            "message": "Bug Report Submitted Successfully!",
+            "data": {
+                "title": "",
+                "severity": "",
+                "environment": "",
+                "browser": "",
+                "steps": "",
+                "expected": "",
+                "actual": "",
+                "attachments": [
+                    "error_screenshot.png",
+                    "console_log.txt"
+                ],
+                "reporter": "",
+                "email": ""
+            },
+            "prompt": "Fill out the bug\u2011report form with this information:  \n\n- For **attachments**, attach the file **error_screenshot.png** and the file **console_log.txt**.  \n\n- Leave all other fields (**title**, **severity**, **environment**, **browser**, **steps**, **expected**, **actual**, **reporter**, **email**) blank.  \n\nThen submit the form."
+        },
+        {
+            "message": "Bug Report Submitted Successfully!",
+            "data": {
+                "title": "",
+                "severity": "",
+                "environment": "",
+                "browser": "",
+                "steps": "",
+                "expected": "",
+                "actual": "",
+                "attachments": [
+                    "timer_issue.mov",
+                    "sysinfo.txt"
+                ],
+                "reporter": "",
+                "email": ""
+            },
+            "prompt": "Fill out the bug\u2011report form with this information:\n\n- Attach the **timer_issue.mov** file.\n- Attach the **sysinfo.txt** file.\n- Leave all other fields blank (title, severity, environment, browser, steps, expected, actual, reporter, and email).\n\nThen submit the form."
+        },
+        {
+            "message": "Bug Report Submitted Successfully!",
+            "data": {
+                "title": "",
+                "severity": "",
+                "environment": "",
+                "browser": "",
+                "steps": "",
+                "expected": "",
+                "actual": "",
+                "attachments": [
+                    "qr_scan_log.txt",
+                    "low_light_sample.jpg"
+                ],
+                "reporter": "",
+                "email": ""
+            },
+            "prompt": "Fill out the bug\u2011report form with this information:  \n- For \u201cAttachments\u201d, attach **qr_scan_log.txt** and **low_light_sample.jpg**.  \n\nLeave all other fields blank.  \n\nThen submit the form."
+        }
+    ],
+    "/tech-software/support-request": [
+        {
+            "message": "IT Support Request Submitted Successfully!",
+            "data": {
+                "requestType": "",
+                "priority": "",
+                "subject": "",
+                "description": "",
+                "location": "",
+                "affectedUsers": "",
+                "availableTime": "",
+                "screenshots": "access_denied.png",
+                "requesterName": "",
+                "requesterEmail": "",
+                "phoneNumber": ""
+            },
+            "prompt": "Fill out the request form with this information:\n\n- For **request type**, leave the field blank.  \n- For **priority**, leave the field blank.  \n- For **subject**, leave the field blank.  \n- For **description**, leave the field blank.  \n- For **location**, leave the field blank.  \n- For **affected users**, leave the field blank.  \n- For **available time**, leave the field blank.  \n- For **screenshots**, attach the file **access_denied.png**.  \n- For **requester name**, leave the field blank.  \n- For **requester email**, leave the field blank.  \n- For **phone number**, leave the field blank.  \n\nThen submit the form."
+        },
+        {
+            "message": "IT Support Request Submitted Successfully!",
+            "data": {
+                "requestType": "",
+                "priority": "",
+                "subject": "",
+                "description": "",
+                "location": "",
+                "affectedUsers": "",
+                "availableTime": "",
+                "screenshots": [
+                    "scanner_settings.png",
+                    "error_message.pdf"
+                ],
+                "requesterName": "",
+                "requesterEmail": "",
+                "phoneNumber": ""
+            },
+            "prompt": "Fill out the incident request form with this information:  \n- Attach **scanner_settings.png** and **error_message.pdf** in the *Screenshots* field.  \n- Leave **request type**, **priority**, **subject**, **description**, **location**, **affected users**, **available time**, **requester name**, **requester email**, and **phone number** blank.  \n\nThen submit the form."
+        }
+    ]
+}

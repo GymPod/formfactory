@@ -17,10 +17,10 @@
                 "essay": "",
                 "reference1": "",
                 "reference1Email": "",
-                "transcript": "ava_lopez_transcript.pdf",
-                "recommendationLetter": "rec_naomi_reed.pdf"
+                "transcript": "/home/ava.lopez/Documents/University/Transcripts/ava_lopez_transcript.pdf",
+                "recommendationLetter": "/home/ava.lopez/Documents/University/Recommendations/rec_naomi_reed.pdf"
             },
-            "prompt": "Fill out the scholarship application form with this information. Attach the **ava_lopez_transcript.pdf** file for the transcript. Attach the **rec_naomi_reed.pdf** file for the recommendation letter. Leave the remaining fields blank. Then submit the form."
+            "prompt": "Fill out the scholarship application form with this information:\n- Attach the file \u201c/home/ava.lopez/Documents/University/Transcripts/ava_lopez_transcript.pdf\u201d as the transcript.\n- Attach the file \u201c/home/ava.lopez/Documents/University/Recommendations/rec_naomi_reed.pdf\u201d as the recommendation letter.\n\nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Student Registration Submitted Successfully!",
@@ -39,10 +39,10 @@
                 "essay": "",
                 "reference1": "",
                 "reference1Email": "",
-                "transcript": "ethan_choi_transcript.pdf",
-                "recommendationLetter": "rec_alan_wu.pdf"
+                "transcript": "/home/ethan.choi/Documents/University/Transcripts/ethan_choi_transcript.pdf",
+                "recommendationLetter": "/home/ethan.choi/Documents/University/Recommendations/rec_alan_wu.pdf"
             },
-            "prompt": "Fill out the scholarship application form with this information:  \nAttach **ethan_choi_transcript.pdf** for the transcript.  \nAttach **rec_alan_wu.pdf** for the recommendation letter.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the scholarship application form with this information:\nAttach the file **/home/ethan.choi/Documents/University/Transcripts/ethan_choi_transcript.pdf** as the transcript.\nAttach the file **/home/ethan.choi/Documents/University/Recommendations/rec_alan_wu.pdf** as the recommendation letter.\nLeave the remaining fields blank.\nThen submit the form."
         },
         {
             "message": "Student Registration Submitted Successfully!",
@@ -61,10 +61,10 @@
                 "essay": "",
                 "reference1": "",
                 "reference1Email": "",
-                "transcript": "lila_ahmed_transcript.pdf",
-                "recommendationLetter": "rec_priya_shah.pdf"
+                "transcript": "/home/lila.ahmed/Documents/University/Transcripts/lila_ahmed_transcript.pdf",
+                "recommendationLetter": "/home/lila.ahmed/Documents/University/Recommendations/rec_priya_shah.pdf"
             },
-            "prompt": "Fill out the scholarship application form with this information:  \nAttach the **lila_ahmed_transcript.pdf** file for the transcript.  \nAttach the **rec_priya_shah.pdf** file for the recommendation letter.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the scholarship application form with this information:\nAttach the **/home/lila.ahmed/Documents/University/Transcripts/lila_ahmed_transcript.pdf** file for the transcript.\nAttach the **/home/lila.ahmed/Documents/University/Recommendations/rec_priya_shah.pdf** file for the recommendation letter.\nLeave the remaining fields blank.\nThen submit the form."
         }
     ],
     "/academic-research/scholarship-application": [
@@ -85,10 +85,10 @@
                 "essay": "",
                 "reference1": "",
                 "reference1Email": "",
-                "transcript": "noah_bennett_transcript.pdf",
-                "recommendationLetter": "rec_helen_park.pdf"
+                "transcript": "/home/noah.bennett/Documents/University/Transcripts/noah_bennett_transcript.pdf",
+                "recommendationLetter": "/home/noah.bennett/Documents/University/Recommendations/rec_helen_park.pdf"
             },
-            "prompt": "Fill out the scholarship application form with this information:\nAttach the **noah_bennett_transcript.pdf** file for the transcript.\nAttach the **rec_helen_park.pdf** file for the recommendation letter.\nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the scholarship application form with this information:  \nAttach the \u201c/home/noah.bennett/Documents/University/Transcripts/noah_bennett_transcript.pdf\u201d file for the transcript.  \nAttach the \u201c/home/noah.bennett/Documents/University/Recommendations/rec_helen_park.pdf\u201d file for the recommendation letter.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Scholarship Application Submitted Successfully!",
@@ -107,10 +107,10 @@
                 "essay": "",
                 "reference1": "",
                 "reference1Email": "",
-                "transcript": "maya_rodriguez_transcript.pdf",
-                "recommendationLetter": "rec_dr_zhao.pdf"
+                "transcript": "/home/maya.rodriguez/Documents/University/Transcripts/maya_rodriguez_transcript.pdf",
+                "recommendationLetter": "/home/maya.rodriguez/Documents/University/Recommendations/rec_dr_zhao.pdf"
             },
-            "prompt": "Fill out the scholarship application form with this information:  \nAttach **maya_rodriguez_transcript.pdf** in the *transcript* field.  \nAttach **rec_dr_zhao.pdf** in the *recommendation letter* field.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the scholarship application form with this information:\nAttach the **/home/maya.rodriguez/Documents/University/Transcripts/maya_rodriguez_transcript.pdf** file for the transcript.\nAttach the **/home/maya.rodriguez/Documents/University/Recommendations/rec_dr_zhao.pdf** file for the recommendation letter.\nLeave the remaining fields blank.\nThen submit the form."
         },
         {
             "message": "Scholarship Application Submitted Successfully!",
@@ -129,10 +129,10 @@
                 "essay": "",
                 "reference1": "",
                 "reference1Email": "",
-                "transcript": "omar_singh_transcript.pdf",
-                "recommendationLetter": "rec_prof_banerjee.pdf"
+                "transcript": "/home/omar.singh/Documents/University/Transcripts/omar_singh_transcript.pdf",
+                "recommendationLetter": "/home/omar.singh/Documents/University/Recommendations/rec_prof_banerjee.pdf"
             },
-            "prompt": "Fill out the form with this information:  \n- Attach **omar_singh_transcript.pdf** for the transcript.  \n- Attach **rec_prof_banerjee.pdf** for the recommendation letter.  \n\nLeave the remaining fields blank. Then submit the form."
+            "prompt": "Fill out the scholarship application form with this information:  \nAttach the file \u201c/home/omar.singh/Documents/University/Transcripts/omar_singh_transcript.pdf\u201d for the transcript.  \nAttach the file \u201c/home/omar.singh/Documents/University/Recommendations/rec_prof_banerjee.pdf\u201d for the recommendation letter.  \nLeave the remaining fields blank.  \nThen submit the form."
         }
     ],
     "/academic-research/paper-submission": [
@@ -145,9 +145,9 @@
                 "abstract": "",
                 "keywords": "",
                 "category": "",
-                "paper_file": "rivera_transformers_sparse.pdf"
+                "paper_file": "/home/rivera/Documents/Research/Submissions/rivera_transformers_sparse.pdf"
             },
-            "prompt": "Fill out the paper submission form with this information:  \n- Attach the **rivera_transformers_sparse.pdf** file for the paper file.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the paper submission form with this information:  \nAttach the **/home/rivera/Documents/Research/Submissions/rivera_transformers_sparse.pdf** file for the paper file.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Paper Submission Successful!",
@@ -158,9 +158,9 @@
                 "abstract": "",
                 "keywords": "",
                 "category": "",
-                "paper_file": "nandakumar_gpu_scheduler.pdf"
+                "paper_file": "/home/nandakumar/Documents/Research/Submissions/nandakumar_gpu_scheduler.pdf"
             },
-            "prompt": "Fill out the paper submission form with this information:  \nAttach the **nandakumar_gpu_scheduler.pdf** file for the paper file.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the paper submission form with this information:  \nAttach the **/home/nandakumar/Documents/Research/Submissions/nandakumar_gpu_scheduler.pdf** file for the paper file.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Paper Submission Successful!",
@@ -171,9 +171,9 @@
                 "abstract": "",
                 "keywords": "",
                 "category": "",
-                "paper_file": "park_gym_occupancy.pdf"
+                "paper_file": "/home/park/Documents/Research/Submissions/park_gym_occupancy.pdf"
             },
-            "prompt": "Fill out the paper submission form with this information:  \n- Attach the **park_gym_occupancy.pdf** file for the Paper file.  \n\nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the paper submission form with this information:\nAttach the file **/home/park/Documents/Research/Submissions/park_gym_occupancy.pdf** as the paper file.\nLeave the remaining fields blank.\nThen submit the form."
         }
     ],
     "/professional-business/startup-funding": [
@@ -196,10 +196,10 @@
                 "target_market": "",
                 "current_revenue": "",
                 "team_size": "",
-                "pitch_deck": "acme_series_a_deck.pdf",
+                "pitch_deck": "/srv/startups/acme/pitch_decks/acme_series_a_deck.pdf",
                 "additional_comments": ""
             },
-            "prompt": "Fill out the startup funding form.  \nAttach the **acme_series_a_deck.pdf** file to the pitch deck field.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the startup funding form with this information:  \nAttach the **/srv/startups/acme/pitch_decks/acme_series_a_deck.pdf** file for the pitch deck.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Startup Funding Application Submitted Successfully!",
@@ -220,10 +220,10 @@
                 "target_market": "",
                 "current_revenue": "",
                 "team_size": "",
-                "pitch_deck": "kinetiq_series_a.pdf",
+                "pitch_deck": "/srv/startups/kinetiq/pitch_decks/kinetiq_series_a.pdf",
                 "additional_comments": ""
             },
-            "prompt": "Fill out the startup funding form with this information:  \nAttach the **kinetiq_series_a.pdf** file for the pitch deck.  \n\nLeave the remaining fields untouched and then submit the form."
+            "prompt": " out the startup funding form with this information:  \n- Attach the **/srv/startups/etiq/pitch_decks/kinetiq_series_a.pdf file for the pitch deck.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         },
         {
             "message": "Startup Funding Application Submitted Successfully!",
@@ -244,10 +244,10 @@
                 "target_market": "",
                 "current_revenue": "",
                 "team_size": "",
-                "pitch_deck": "prime_intellect.pdf",
+                "pitch_deck": "/srv/startups/prime-intellect/pitch_decks/prime_intellect.pdf",
                 "additional_comments": ""
             },
-            "prompt": "Fill out the startup funding form with this information:\nAttach the **prime_intellect.pdf** file for the pitch deck.\nLeave the remaining fields untouched and then submit the form."
+            "prompt": "Fill out the startup funding form with this information:  \nAttach the\u202f/srv/startups/prime-intellect/pitch_decks/prime_intellect.pdf\u202ffile for the pitch deck.  \nLeave the remaining fields blank.  \nThen submit the form."
         }
     ],
     "/professional-business/rental-application": [
@@ -274,10 +274,10 @@
                 "pet_details": "",
                 "references": "",
                 "additional_info": "",
-                "id_proof": "caitlin_id.pdf",
-                "income_proof": "paystubs_q2_2025.pdf"
+                "id_proof": "/home/caitlin/Documents/Leasing/ID/caitlin_id.pdf",
+                "income_proof": "/home/caitlin/Documents/Leasing/Income/paystubs_q2_2025.pdf"
             },
-            "prompt": "Fill out the rental application form with this information:  \nPets: no  \nAttach the caitlin_id.pdf file for \u201cID proof\u201d.  \nAttach the paystubs_q2_2025.pdf file for \u201cIncome proof\u201d.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the leasing application form with this information:\n- Pets: no  \n- Attach the file **/home/caitlin/Documents/Leasing/ID/caitlin_id.pdf** as \u201cID proof\u201d.  \n- Attach the file **/home/caitlin/Documents/Leasing/Income/paystubs_q2_2025.pdf** as \u201cIncome proof\u201d.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         },
         {
             "message": "Real Estate Rental Application Submitted Successfully!",
@@ -302,10 +302,10 @@
                 "pet_details": "",
                 "references": "",
                 "additional_info": "",
-                "id_proof": "marcus_id.pdf",
-                "income_proof": "repulse_paystubs_q2_2025.pdf"
+                "id_proof": "/home/marcus/Documents/Leasing/ID/marcus_id.pdf",
+                "income_proof": "/home/marcus/Documents/Leasing/Income/repulse_paystubs_q2_2025.pdf"
             },
-            "prompt": "Fill out the rental application form with this information:  \nPets: no  \nAttach the file\u202fmarcus_id.pdf\u202fas \u201cID proof\u201d.  \nAttach the file\u202frepulse_paystubs_q2_2025.pdf\u202fas \u201cIncome proof\u201d.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the leasing application form with this information:  \n\n- Pets: no  \n- Attach \u201c/home/marcus/Documents/Leasing/ID/marcus_id.pdf\u201d as the ID proof.  \n- Attach \u201c/home/marcus/Documents/Leasing/Income/repulse_paystubs_q2_2025.pdf\u201d as the income proof.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         },
         {
             "message": "Real Estate Rental Application Submitted Successfully!",
@@ -330,10 +330,10 @@
                 "pet_details": "",
                 "references": "",
                 "additional_info": "",
-                "id_proof": "isabella_id.pdf",
-                "income_proof": "aurora_paystubs_jul_aug_2025.pdf"
+                "id_proof": "/home/isabella/Documents/Leasing/ID/isabella_id.pdf",
+                "income_proof": "/home/isabella/Documents/Leasing/Income/aurora_paystubs_jul_aug_2025.pdf"
             },
-            "prompt": "Fill out the rental application form with this information:\n- Pets: no  \n- Attach the **isabella_id.pdf** file for ID proof.  \n- Attach the **aurora_paystubs_jul_aug_2025.pdf** file for income proof.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the leasing application form with this information:  \nPets: no  \nAttach the /home/isabella/Documents/Leasing/ID/isabella_id.pdf file for \u201cID proof\u201d.  \nAttach the /home/isabella/Documents/Leasing/Income/aurora_paystubs_jul_aug_2025.pdf file for \u201cIncome proof\u201d.  \nLeave the remaining fields blank.  \nThen submit the form."
         }
     ],
     "/professional-business/membership-application": [
@@ -355,12 +355,12 @@
                 "industry": "",
                 "reference_name": "",
                 "reference_email": "",
-                "resume": "gianna_russo_resume.pdf",
-                "credentials": "nasm_cpt.pdf",
+                "resume": "/home/gianna.russo/Documents/Resumes/gianna_russo_resume.pdf",
+                "credentials": "/home/gianna.russo/Documents/Certifications/nasm_cpt.pdf",
                 "code_of_conduct": "on",
                 "information_consent": "on"
             },
-            "prompt": "Fill out the form with this information:\n- Attach \u201cgianna_russo_resume.pdf\u201d as the **resume**.\n- Attach \u201cnasm_cpt.pdf\u201d as the **credentials**.\n- Check the **code of conduct** option.\n- Check the **information consent** option.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the form with this information:\n- Attach \u201c/home/gianna.russo/Documents/Resumes/gianna_russo_resume.pdf\u201d as the resume.\n- Attach \u201c/home/gianna.russo/Documents/Certifications/nasm_cpt.pdf\u201d as the credentials.\n- Check the \u201ccode of conduct\u201d box.\n- Check the \u201cinformation consent\u201d box.\nLeave the remaining fields blank, then submit the form."
         },
         {
             "message": "Membership Application Submitted Successfully!",
@@ -380,12 +380,12 @@
                 "industry": "",
                 "reference_name": "",
                 "reference_email": "",
-                "resume": "thomas_nguyen_resume.pdf",
-                "credentials": "cpr_aed_certificate.png",
+                "resume": "/home/thomas.nguyen/Documents/Resumes/thomas_nguyen_resume.pdf",
+                "credentials": "/home/thomas.nguyen/Documents/Certifications/cpr_aed_certificate.png",
                 "code_of_conduct": "on",
                 "information_consent": "on"
             },
-            "prompt": "Fill out the membership application form with this information:\n- Attach the **thomas_nguyen_resume.pdf** file for the resume.\n- Attach the **cpr_aed_certificate.png** file for the credentials.\n- Check the **Code of Conduct** box.\n- Check the **Information Consent** box.\n- Leave the remaining fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the form with this information:\n- Attach the **/home/thomas.nguyen/Documents/Resumes/thomas_nguyen_resume.pdf** file for the \u201cresume\u201d.\n- Attach the **/home/thomas.nguyen/Documents/Certifications/cpr_aed_certificate.png** file for the \u201ccredentials\u201d.\n- Check the **code of conduct** box.\n- Check the **information consent** box.\nLeave the remaining fields blank.\n\nThen submit the form."
         },
         {
             "message": "Membership Application Submitted Successfully!",
@@ -406,12 +406,12 @@
                 "reference_name": "",
                 "reference_email": "",
                 "reference_relationship": "",
-                "resume": "rahul_desai_resume.pdf",
-                "credentials": "pmp_certificate.png",
+                "resume": "/home/rahul.desai/Documents/Resumes/rahul_desai_resume.pdf",
+                "credentials": "/home/rahul.desai/Documents/Certifications/pmp_certificate.png",
                 "code_of_conduct": "on",
                 "information_consent": "on"
             },
-            "prompt": "Fill out the membership application form with this information:\n- Attach **rahul_desai_resume.pdf** as the resume.\n- Attach **pmp_certificate.png** as the credentials.\n- For \u201cCode of Conduct\u201d, check the box.\n- For \u201cInformation Consent\u201d, check the box.\n\nLeave the remaining fields blank and then submit the form."
+            "prompt": "Fill out the membership application form with this information:\n\n- Attach the file **/home/rahul.desai/Documents/Resumes/rahul_desai_resume.pdf** as the resume.  \n- Attach the file **/home/rahul.desai/Documents/Certifications/pmp_certificate.png** as the credentials.  \n- Check the **Code of Conduct** box.  \n- Check the **Information Consent** box.  \n\nLeave the remaining fields blank, then submit the form."
         }
     ],
     "/arts-creative/exhibition-submission": [
@@ -425,12 +425,12 @@
                 "dimensions": "",
                 "year": "",
                 "description": "",
-                "artwork_image": "city_in_bloom.jpg",
+                "artwork_image": "/srv/gallery/submissions/images/city_in_bloom.jpg",
                 "exhibition_period": "spring",
                 "for_sale": "",
                 "terms": ""
             },
-            "prompt": "Fill out the artwork submission form with this information:\n\n- Attach the **city_in_bloom.jpg** file for the artwork image.  \n- Set the exhibition period to **spring**.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the art submission form with this information:\n- Exhibition period: spring  \n- Attach the /srv/gallery/submissions/images/city_in_bloom.jpg file for the artwork image.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         },
         {
             "message": "Art Exhibition Submission Successful!",
@@ -442,12 +442,12 @@
                 "dimensions": "",
                 "year": "",
                 "description": "",
-                "artwork_image": "pulse_of_motion.jpg",
+                "artwork_image": "/srv/gallery/submissions/images/pulse_of_motion.jpg",
                 "exhibition_period": "spring",
                 "for_sale": "",
                 "terms": ""
             },
-            "prompt": "Fill out the exhibition submission form with this information:  \nExhibition period: spring  \nAttach the **pulse_of_motion.jpg** file for \u201cartwork image\u201d.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the artwork submission form with this information:\nExhibition period: spring  \nAttach the file **/srv/gallery/submissions/images/pulse_of_motion.jpg** for \u201cartwork image\u201d.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Art Exhibition Submission Successful!",
@@ -459,12 +459,12 @@
                 "dimensions": "",
                 "year": "",
                 "description": "",
-                "artwork_image": "after_hours_gym.jpg",
+                "artwork_image": "/srv/gallery/submissions/images/after_hours_gym.jpg",
                 "exhibition_period": "spring",
                 "for_sale": "",
                 "terms": ""
             },
-            "prompt": "Fill out the form with this information:  \nAttach the **after_hours_gym.jpg** file for the artwork image.  \nSet the exhibition period to **spring**.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the art submission form with this information:\n- Exhibition period: spring  \n- Attach the \"/srv/gallery/submissions/images/after_hours_gym.jpg\" image for the artwork.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
         }
     ],
     "/arts-creative/literary-submission": [
@@ -477,13 +477,13 @@
                 "genre": "",
                 "word_count": "",
                 "abstract": "",
-                "manuscript": "chalk_and_echoes.pdf",
+                "manuscript": "/srv/journal/submissions/manuscripts/chalk_and_echoes.pdf",
                 "issue": "spring",
                 "previously_published": "",
                 "simultaneous_submission": "",
                 "terms": ""
             },
-            "prompt": "Fill out the manuscript submission form with this information:  \nAttach the **chalk_and_echoes.pdf** file for the manuscript.  \nSet the **issue** to **spring**.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the journal submission form with this information:\n- Issue: spring\n- Attach the /srv/journal/submissions/manuscripts/chalk_and_echoes.pdf file for the manuscript.\n\nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Literary Work Submission Successful!",
@@ -494,13 +494,13 @@
                 "genre": "",
                 "word_count": "",
                 "abstract": "",
-                "manuscript": "rep_count_poems.pdf",
+                "manuscript": "/srv/journal/submissions/manuscripts/rep_count_poems.pdf",
                 "issue": "spring",
                 "previously_published": "",
                 "simultaneous_submission": "",
                 "terms": ""
             },
-            "prompt": "Fill out the manuscript submission form with this information:  \nAttach the **rep_count_poems.pdf** file for the manuscript.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the journal submission form with this information:  \nIssue: spring  \nAttach the **/srv/journal/submissions/manuscripts/rep_count_poems.pdf** file for the manuscript.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Literary Work Submission Successful!",
@@ -511,13 +511,13 @@
                 "genre": "",
                 "word_count": "",
                 "abstract": "",
-                "manuscript": "winters_harbor.pdf",
+                "manuscript": "/srv/journal/submissions/manuscripts/winters_harbor.pdf",
                 "issue": "spring",
                 "previously_published": "",
                 "simultaneous_submission": "",
                 "terms": ""
             },
-            "prompt": "Fill out the manuscript\u2011submission form with this information:  \n\n* Attach **winters_harbor.pdf** for the manuscript.  \n* Set **Issue** to **spring**.  \n\nLeave the remaining fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the journal submission form with this information:  \nIssue: spring  \nFor \u201cManuscript\u201d, attach the file **/srv/journal/submissions/manuscripts/winters_harbor.pdf**.  \nLeave the remaining fields blank.  \nThen submit the form."
         }
     ],
     "/arts-creative/speaker-application": [
@@ -533,13 +533,13 @@
                 "abstract": "",
                 "learning_objectives": "",
                 "bio": "",
-                "cv": "dana_brooks_cv.pdf",
+                "cv": "/home/danabrooks/Documents/CV/dana_brooks_cv.pdf",
                 "speaking_experience": "",
                 "format": "",
                 "tech_requirements": "",
                 "terms": ""
             },
-            "prompt": "Fill out the speaker proposal form with this information:  \nAttach the dana_brooks_cv.pdf file for the CV.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the speaker proposal form with this information:  \nAttach the file **/home/danabrooks/Documents/CV/dana_brooks_cv.pdf** for the \u201cCV\u201d field.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Speaker Application Submitted Successfully!",
@@ -553,13 +553,13 @@
                 "abstract": "",
                 "learning_objectives": "",
                 "bio": "",
-                "cv": "nora_patel_cv.pdf",
+                "cv": "/home/norapatel/Documents/CV/nora_patel_cv.pdf",
                 "speaking_experience": "",
                 "format": "",
                 "tech_requirements": "",
                 "terms": ""
             },
-            "prompt": "Fill out the speaker submission form with this information:  \nAttach the **nora_patel_cv.pdf** file for the CV.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the speaking\u2011proposal form with this information:  \nAttach the **/home/norapatel/Documents/CV/nora_patel_cv.pdf** file for the \u201cCV\u201d.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Speaker Application Submitted Successfully!",
@@ -573,13 +573,13 @@
                 "abstract": "",
                 "learning_objectives": "",
                 "bio": "",
-                "cv": "victor_huang_cv.pdf",
+                "cv": "/home/victor.huang/Documents/CV/victor_huang_cv.pdf",
                 "speaking_experience": "",
                 "format": "",
                 "tech_requirements": "",
                 "terms": ""
             },
-            "prompt": "Fill out the speaker submission form with this information:  \n- Attach the **victor_huang_cv.pdf** file for \u201cCV\u201d.  \n- Leave the remaining fields blank.  \n\nThen submit the form."
+            "prompt": "Fill out the speaker submission form with this information:\nAttach the **/home/victor.huang/Documents/CV/victor_huang_cv.pdf** file for the CV.\nLeave the remaining fields blank.\nThen submit the form."
         }
     ],
     "/tech-software/bug-report": [
@@ -594,13 +594,13 @@
                 "expected": "",
                 "actual": "",
                 "attachments": [
-                    "error_screenshot.png",
-                    "console_log.txt"
+                    "/home/qa/Pictures/Screenshots/error_screenshot.png",
+                    "/home/qa/Projects/gym-app/logs/console_log.txt"
                 ],
                 "reporter": "",
                 "email": ""
             },
-            "prompt": "Fill out the bug report form with this information:  \nAttach the **error_screenshot.png** and **console_log.txt** files.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the bug\u2011report form with this information:\n- Attach **/home/qa/Pictures/Screenshots/error_screenshot.png** and **/home/qa/Projects/gym-app/logs/console_log.txt** in the \u201cattachments\u201d field.  \n- Leave the remaining fields (title, severity, environment, browser, steps, expected, actual, reporter, email) blank.  \n\nThen submit the form."
         },
         {
             "message": "Bug Report Submitted Successfully!",
@@ -613,13 +613,13 @@
                 "expected": "",
                 "actual": "",
                 "attachments": [
-                    "timer_issue.mov",
-                    "sysinfo.txt"
+                    "/home/qa/Pictures/Screenshots/timer_issue.mov",
+                    "/home/qa/Projects/gym-app/logs/sysinfo.txt"
                 ],
                 "reporter": "",
                 "email": ""
             },
-            "prompt": "Fill out the bug report form with this information:\n- Attach the **timer_issue.mov** file.\n- Attach the **sysinfo.txt** file.\n- Leave the remaining fields blank.\n\nThen submit the form."
+            "prompt": "Fill out the bug report form with this information:\nAttach the\u202f/home/qa/Pictures/Screenshots/timer_issue.mov\u202fand\u202f/home/qa/Projects/gym-app/logs/sysinfo.txt\u202ffiles in the \u201cattachments\u201d field.  \nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "Bug Report Submitted Successfully!",
@@ -632,13 +632,13 @@
                 "expected": "",
                 "actual": "",
                 "attachments": [
-                    "qr_scan_log.txt",
-                    "low_light_sample.jpg"
+                    "/home/qa/Projects/gym-app/logs/qr_scan_log.txt",
+                    "/home/qa/Pictures/Screenshots/low_light_sample.jpg"
                 ],
                 "reporter": "",
                 "email": ""
             },
-            "prompt": "Fill out the bug report form with this information:\nAttach **qr_scan_log.txt** and **low_light_sample.jpg** in the \u201cattachments\u201d section.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the bug report form with this information:  \nAttach \u201c/home/qa/Projects/gym-app/logs/qr_scan_log.txt\u201d and \u201c/home/qa/Pictures/Screenshots/low_light_sample.jpg\u201d in the **attachments** field.  \nLeave the remaining fields blank.  \nThen submit the form."
         }
     ],
     "/tech-software/support-request": [
@@ -652,12 +652,12 @@
                 "location": "",
                 "affectedUsers": "",
                 "availableTime": "",
-                "screenshots": "access_denied.png",
+                "screenshots": "/home/helpdesk/Pictures/Screenshots/access_denied.png",
                 "requesterName": "",
                 "requesterEmail": "",
                 "phoneNumber": ""
             },
-            "prompt": "Fill out the issue request form with this information:\nFor **Screenshots**, attach **access_denied.png**.  \nLeave the remaining fields blank.  \nThen submit the form."
+            "prompt": "Fill out the request form with this information:  \n- Attach **/home/helpdesk/Pictures/Screenshots/access_denied.png** for \u201cscreenshots\u201d.  \n\nLeave the remaining fields blank.  \nThen submit the form."
         },
         {
             "message": "IT Support Request Submitted Successfully!",
@@ -670,14 +670,14 @@
                 "affectedUsers": "",
                 "availableTime": "",
                 "screenshots": [
-                    "scanner_settings.png",
-                    "error_message.pdf"
+                    "/home/helpdesk/Pictures/Screenshots/scanner_settings.png",
+                    "/home/helpdesk/Documents/Tickets/error_message.pdf"
                 ],
                 "requesterName": "",
                 "requesterEmail": "",
                 "phoneNumber": ""
             },
-            "prompt": "Fill out the request form with this information:\n- Attach the **scanner_settings.png** and **error_message.pdf** files in the \u201cScreenshots\u201d field.\n\nLeave the remaining fields blank and then submit the form."
+            "prompt": "Fill out the request form with this information:\n- Attach **/home/helpdesk/Pictures/Screenshots/scanner_settings.png** and **/home/helpdesk/Documents/Tickets/error_message.pdf** in the \u201cScreenshots\u201d section.\n- Leave the remaining fields blank.\n\nThen submit the form."
         }
     ]
 }

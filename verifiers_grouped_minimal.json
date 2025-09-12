@@ -14,10 +14,10 @@
         "qualityStandards": "",
         "requiredDate": "2025-05-20",
         "shippingMethod": "express",
-        "drawings": "bracket_drawings.dwg",
+        "drawings": "/srv/manufacturing/orion-aerospace/drawings/bracket_drawings.dwg",
         "additionalDocs": [
-          "spec_appendix.pdf",
-          "msds.pdf"
+          "/srv/manufacturing/orion-aerospace/specs/spec_appendix.pdf",
+          "/srv/manufacturing/orion-aerospace/safety/msds.pdf"
         ],
         "submission_time": "2025-01-15 14:32:10"
       }
@@ -36,8 +36,8 @@
         "qualityStandards": "",
         "requiredDate": "2025-07-01",
         "shippingMethod": "ground",
-        "drawings": "duct_panel_layout.dwg",
-        "additionalDocs": "install_guide.pdf",
+        "drawings": "/srv/manufacturing/northwind-hvac/drawings/duct_panel_layout.dwg",
+        "additionalDocs": "/srv/manufacturing/northwind-hvac/docs/install_guide.pdf",
         "submission_time": "2025-06-02 09:15:10"
       }
     },
@@ -55,8 +55,8 @@
         "qualityStandards": "",
         "requiredDate": "2025-09-22",
         "shippingMethod": "air",
-        "drawings": "bracket_mod_v2.dwg",
-        "additionalDocs": "specifications.pdf",
+        "drawings": "/srv/manufacturing/peak-fitness-interiors/drawings/bracket_mod_v2.dwg",
+        "additionalDocs": "/srv/manufacturing/peak-fitness-interiors/specs/specifications.pdf",
         "submission_time": "2025-08-29 13:41:27"
       }
     }
@@ -79,8 +79,8 @@
         "essay": "",
         "reference1": "",
         "reference1Email": "",
-        "transcript": "ava_lopez_transcript.pdf",
-        "recommendationLetter": "rec_naomi_reed.pdf",
+        "transcript": "/home/ava.lopez/Documents/University/Transcripts/ava_lopez_transcript.pdf",
+        "recommendationLetter": "/home/ava.lopez/Documents/University/Recommendations/rec_naomi_reed.pdf",
         "submission_time": "2025-02-10 11:12:45"
       }
     },
@@ -101,8 +101,8 @@
         "essay": "",
         "reference1": "",
         "reference1Email": "",
-        "transcript": "ethan_choi_transcript.pdf",
-        "recommendationLetter": "rec_alan_wu.pdf",
+        "transcript": "/home/ethan.choi/Documents/University/Transcripts/ethan_choi_transcript.pdf",
+        "recommendationLetter": "/home/ethan.choi/Documents/University/Recommendations/rec_alan_wu.pdf",
         "submission_time": "2025-03-01 08:03:19"
       }
     },
@@ -123,8 +123,8 @@
         "essay": "",
         "reference1": "",
         "reference1Email": "",
-        "transcript": "lila_ahmed_transcript.pdf",
-        "recommendationLetter": "rec_priya_shah.pdf",
+        "transcript": "/home/lila.ahmed/Documents/University/Transcripts/lila_ahmed_transcript.pdf",
+        "recommendationLetter": "/home/lila.ahmed/Documents/University/Recommendations/rec_priya_shah.pdf",
         "submission_time": "2025-04-14 16:22:08"
       }
     }
@@ -147,8 +147,8 @@
         "essay": "",
         "reference1": "",
         "reference1Email": "",
-        "transcript": "noah_bennett_transcript.pdf",
-        "recommendationLetter": "rec_helen_park.pdf",
+        "transcript": "/home/noah.bennett/Documents/University/Transcripts/noah_bennett_transcript.pdf",
+        "recommendationLetter": "/home/noah.bennett/Documents/University/Recommendations/rec_helen_park.pdf",
         "submission_time": "2025-02-03 12:01:00"
       }
     },
@@ -169,8 +169,8 @@
         "essay": "",
         "reference1": "",
         "reference1Email": "",
-        "transcript": "maya_rodriguez_transcript.pdf",
-        "recommendationLetter": "rec_dr_zhao.pdf",
+        "transcript": "/home/maya.rodriguez/Documents/University/Transcripts/maya_rodriguez_transcript.pdf",
+        "recommendationLetter": "/home/maya.rodriguez/Documents/University/Recommendations/rec_dr_zhao.pdf",
         "submission_time": "2025-03-11 09:44:27"
       }
     },
@@ -191,8 +191,8 @@
         "essay": "",
         "reference1": "",
         "reference1Email": "",
-        "transcript": "omar_singh_transcript.pdf",
-        "recommendationLetter": "rec_prof_banerjee.pdf",
+        "transcript": "/home/omar.singh/Documents/University/Transcripts/omar_singh_transcript.pdf",
+        "recommendationLetter": "/home/omar.singh/Documents/University/Recommendations/rec_prof_banerjee.pdf",
         "submission_time": "2025-04-28 15:10:52"
       }
     }
@@ -207,7 +207,7 @@
         "abstract": "",
         "keywords": "",
         "category": "",
-        "paper_file": "rivera_transformers_sparse.pdf",
+        "paper_file": "/home/rivera/Documents/Research/Submissions/rivera_transformers_sparse.pdf",
         "submission_time": "2025-01-15 14:32:10"
       }
     },
@@ -220,7 +220,7 @@
         "abstract": "",
         "keywords": "",
         "category": "",
-        "paper_file": "nandakumar_gpu_scheduler.pdf",
+        "paper_file": "/home/nandakumar/Documents/Research/Submissions/nandakumar_gpu_scheduler.pdf",
         "submission_time": "2025-06-12 10:22:33"
       }
     },
@@ -233,7 +233,7 @@
         "abstract": "",
         "keywords": "",
         "category": "",
-        "paper_file": "park_gym_occupancy.pdf",
+        "paper_file": "/home/park/Documents/Research/Submissions/park_gym_occupancy.pdf",
         "submission_time": "2025-07-08 09:05:11"
       }
     }
@@ -258,7 +258,7 @@
         "target_market": "",
         "current_revenue": "",
         "team_size": "",
-        "pitch_deck": "acme_series_a_deck.pdf",
+        "pitch_deck": "/srv/startups/acme/pitch_decks/acme_series_a_deck.pdf",
         "additional_comments": "",
         "submission_time": "2025-01-15 14:32:10"
       }
@@ -282,7 +282,7 @@
         "target_market": "",
         "current_revenue": "",
         "team_size": "",
-        "pitch_deck": "kinetiq_series_a.pdf",
+        "pitch_deck": "/srv/startups/kinetiq/pitch_decks/kinetiq_series_a.pdf",
         "additional_comments": "",
         "submission_time": "2025-09-08 10:15:37"
       }
@@ -306,7 +306,7 @@
         "target_market": "",
         "current_revenue": "",
         "team_size": "",
-        "pitch_deck": "prime_intellect.pdf",
+        "pitch_deck": "/srv/startups/prime-intellect/pitch_decks/prime_intellect.pdf",
         "additional_comments": "",
         "submission_time": "2025-09-09 00:38:04"
       }
@@ -336,8 +336,8 @@
         "pet_details": "",
         "references": "",
         "additional_info": "",
-        "id_proof": "caitlin_id.pdf",
-        "income_proof": "paystubs_q2_2025.pdf",
+        "id_proof": "/home/caitlin/Documents/Leasing/ID/caitlin_id.pdf",
+        "income_proof": "/home/caitlin/Documents/Leasing/Income/paystubs_q2_2025.pdf",
         "submission_time": "2025-09-08 21:26:22"
       }
     },
@@ -364,8 +364,8 @@
         "pet_details": "",
         "references": "",
         "additional_info": "",
-        "id_proof": "marcus_id.pdf",
-        "income_proof": "repulse_paystubs_q2_2025.pdf",
+        "id_proof": "/home/marcus/Documents/Leasing/ID/marcus_id.pdf",
+        "income_proof": "/home/marcus/Documents/Leasing/Income/repulse_paystubs_q2_2025.pdf",
         "submission_time": "2025-09-08 10:18:19"
       }
     },
@@ -392,8 +392,8 @@
         "pet_details": "",
         "references": "",
         "additional_info": "",
-        "id_proof": "isabella_id.pdf",
-        "income_proof": "aurora_paystubs_jul_aug_2025.pdf",
+        "id_proof": "/home/isabella/Documents/Leasing/ID/isabella_id.pdf",
+        "income_proof": "/home/isabella/Documents/Leasing/Income/aurora_paystubs_jul_aug_2025.pdf",
         "submission_time": "2025-09-08 10:19:40"
       }
     }
@@ -417,8 +417,8 @@
         "industry": "",
         "reference_name": "",
         "reference_email": "",
-        "resume": "gianna_russo_resume.pdf",
-        "credentials": "nasm_cpt.pdf",
+        "resume": "/home/gianna.russo/Documents/Resumes/gianna_russo_resume.pdf",
+        "credentials": "/home/gianna.russo/Documents/Certifications/nasm_cpt.pdf",
         "code_of_conduct": "on",
         "information_consent": "on",
         "submission_time": "2025-09-08 10:21:05"
@@ -442,8 +442,8 @@
         "industry": "",
         "reference_name": "",
         "reference_email": "",
-        "resume": "thomas_nguyen_resume.pdf",
-        "credentials": "cpr_aed_certificate.png",
+        "resume": "/home/thomas.nguyen/Documents/Resumes/thomas_nguyen_resume.pdf",
+        "credentials": "/home/thomas.nguyen/Documents/Certifications/cpr_aed_certificate.png",
         "code_of_conduct": "on",
         "information_consent": "on",
         "submission_time": "2025-09-08 10:22:44"
@@ -468,8 +468,8 @@
         "reference_name": "",
         "reference_email": "",
         "reference_relationship": "",
-        "resume": "rahul_desai_resume.pdf",
-        "credentials": "pmp_certificate.png",
+        "resume": "/home/rahul.desai/Documents/Resumes/rahul_desai_resume.pdf",
+        "credentials": "/home/rahul.desai/Documents/Certifications/pmp_certificate.png",
         "code_of_conduct": "on",
         "information_consent": "on",
         "submission_time": "2025-01-15 14:32:10"
@@ -487,7 +487,7 @@
         "dimensions": "",
         "year": "",
         "description": "",
-        "artwork_image": "city_in_bloom.jpg",
+        "artwork_image": "/srv/gallery/submissions/images/city_in_bloom.jpg",
         "exhibition_period": "spring",
         "for_sale": "",
         "terms": "",
@@ -504,7 +504,7 @@
         "dimensions": "",
         "year": "",
         "description": "",
-        "artwork_image": "pulse_of_motion.jpg",
+        "artwork_image": "/srv/gallery/submissions/images/pulse_of_motion.jpg",
         "exhibition_period": "spring",
         "for_sale": "",
         "terms": "",
@@ -521,7 +521,7 @@
         "dimensions": "",
         "year": "",
         "description": "",
-        "artwork_image": "after_hours_gym.jpg",
+        "artwork_image": "/srv/gallery/submissions/images/after_hours_gym.jpg",
         "exhibition_period": "spring",
         "for_sale": "",
         "terms": "",
@@ -539,7 +539,7 @@
         "genre": "",
         "word_count": "",
         "abstract": "",
-        "manuscript": "chalk_and_echoes.pdf",
+        "manuscript": "/srv/journal/submissions/manuscripts/chalk_and_echoes.pdf",
         "issue": "spring",
         "previously_published": "",
         "simultaneous_submission": "",
@@ -556,7 +556,7 @@
         "genre": "",
         "word_count": "",
         "abstract": "",
-        "manuscript": "rep_count_poems.pdf",
+        "manuscript": "/srv/journal/submissions/manuscripts/rep_count_poems.pdf",
         "issue": "spring",
         "previously_published": "",
         "simultaneous_submission": "",
@@ -573,7 +573,7 @@
         "genre": "",
         "word_count": "",
         "abstract": "",
-        "manuscript": "winters_harbor.pdf",
+        "manuscript": "/srv/journal/submissions/manuscripts/winters_harbor.pdf",
         "issue": "spring",
         "previously_published": "",
         "simultaneous_submission": "",
@@ -595,7 +595,7 @@
         "abstract": "",
         "learning_objectives": "",
         "bio": "",
-        "cv": "dana_brooks_cv.pdf",
+        "cv": "/home/danabrooks/Documents/CV/dana_brooks_cv.pdf",
         "speaking_experience": "",
         "format": "",
         "tech_requirements": "",
@@ -615,7 +615,7 @@
         "abstract": "",
         "learning_objectives": "",
         "bio": "",
-        "cv": "nora_patel_cv.pdf",
+        "cv": "/home/norapatel/Documents/CV/nora_patel_cv.pdf",
         "speaking_experience": "",
         "format": "",
         "tech_requirements": "",
@@ -635,7 +635,7 @@
         "abstract": "",
         "learning_objectives": "",
         "bio": "",
-        "cv": "victor_huang_cv.pdf",
+        "cv": "/home/victor.huang/Documents/CV/victor_huang_cv.pdf",
         "speaking_experience": "",
         "format": "",
         "tech_requirements": "",
@@ -656,8 +656,8 @@
         "expected": "",
         "actual": "",
         "attachments": [
-          "error_screenshot.png",
-          "console_log.txt"
+          "/home/qa/Pictures/Screenshots/error_screenshot.png",
+          "/home/qa/Projects/gym-app/logs/console_log.txt"
         ],
         "reporter": "",
         "email": "",
@@ -675,8 +675,8 @@
         "expected": "",
         "actual": "",
         "attachments": [
-          "timer_issue.mov",
-          "sysinfo.txt"
+          "/home/qa/Pictures/Screenshots/timer_issue.mov",
+          "/home/qa/Projects/gym-app/logs/sysinfo.txt"
         ],
         "reporter": "",
         "email": "",
@@ -694,8 +694,8 @@
         "expected": "",
         "actual": "",
         "attachments": [
-          "qr_scan_log.txt",
-          "low_light_sample.jpg"
+          "/home/qa/Projects/gym-app/logs/qr_scan_log.txt",
+          "/home/qa/Pictures/Screenshots/low_light_sample.jpg"
         ],
         "reporter": "",
         "email": "",
@@ -714,7 +714,7 @@
         "location": "",
         "affectedUsers": "",
         "availableTime": "",
-        "screenshots": "access_denied.png",
+        "screenshots": "/home/helpdesk/Pictures/Screenshots/access_denied.png",
         "requesterName": "",
         "requesterEmail": "",
         "phoneNumber": "",
@@ -732,8 +732,8 @@
         "affectedUsers": "",
         "availableTime": "",
         "screenshots": [
-          "scanner_settings.png",
-          "error_message.pdf"
+          "/home/helpdesk/Pictures/Screenshots/scanner_settings.png",
+          "/home/helpdesk/Documents/Tickets/error_message.pdf"
         ],
         "requesterName": "",
         "requesterEmail": "",
@@ -754,8 +754,8 @@
         "diagnosis": "ACL reconstruction",
         "providerName": "CityCare Hospital",
         "providerNumber": "HSP-44321",
-        "medicalBills": "citycare_bills.pdf",
-        "prescriptions": "post_op_instructions.pdf",
+        "medicalBills": "/home/michael.ortiz/Documents/Medical/Bills/citycare_bills.pdf",
+        "prescriptions": "/home/michael.ortiz/Documents/Medical/Instructions/post_op_instructions.pdf",
         "submission_time": "2025-01-15 14:32:10"
       }
     },
@@ -770,8 +770,8 @@
         "diagnosis": "Annual physical",
         "providerName": "Bayview Clinic",
         "providerNumber": "HSP-99221",
-        "medicalBills": "s_lee_bills.pdf",
-        "prescriptions": "prescriptions_0.pdf",
+        "medicalBills": "/home/slee/Documents/Medical/Bills/s_lee_bills.pdf",
+        "prescriptions": "/home/slee/Documents/Medical/Prescriptions/prescriptions_0.pdf",
         "submission_time": "2025-07-18 14:20:05"
       }
     },
@@ -786,8 +786,8 @@
         "diagnosis": "Meniscus tear repair",
         "providerName": "Bay Ortho Center",
         "providerNumber": "HSP-55002",
-        "medicalBills": "diego_surgery_bills.pdf",
-        "prescriptions": "diego_post_op_medications.pdf",
+        "medicalBills": "/home/alvarez/Documents/Medical/Bills/diego_surgery_bills.pdf",
+        "prescriptions": "/home/alvarez/Documents/Medical/Prescriptions/diego_post_op_medications.pdf",
         "submission_time": "2025-09-08 10:39:55"
       }
     }
@@ -805,9 +805,9 @@
         "serviceDescription": "Build and maintain internal web portals",
         "startDate": "2025-02-01",
         "endDate": "",
-        "w9Form": "w9_taylor_morgan.pdf",
-        "insuranceCert": "morgan_llc_insurance.pdf",
-        "licenseCert": "engineering_license.pdf",
+        "w9Form": "/home/tmorgan/Documents/Taxes/w9_taylor_morgan.pdf",
+        "insuranceCert": "/home/tmorgan/Documents/Insurance/morgan_llc_insurance.pdf",
+        "licenseCert": "/home/tmorgan/Documents/Licenses/engineering_license.pdf",
         "termsAgreed": "on",
         "confidentialityAgreed": "on",
         "submission_time": "2025-01-15 14:32:10"
@@ -825,9 +825,9 @@
         "serviceDescription": "Redesign member mobile app flows",
         "startDate": "2025-09-15",
         "endDate": "",
-        "w9Form": "w9_jasmine_park.pdf",
-        "insuranceCert": "parkux_liability_cert.pdf",
-        "licenseCert": "uxp_license.pdf",
+        "w9Form": "/home/jasmine/Documents/Taxes/w9_jasmine_park.pdf",
+        "insuranceCert": "/home/jasmine/Documents/Insurance/parkux_liability_cert.pdf",
+        "licenseCert": "/home/jasmine/Documents/Licenses/uxp_license.pdf",
         "termsAgreed": "on",
         "confidentialityAgreed": "on",
         "submission_time": "2025-09-08 10:41:18"
@@ -845,9 +845,9 @@
         "serviceDescription": "Install lighting for training area expansion",
         "startDate": "2025-10-01",
         "endDate": "",
-        "w9Form": "w9_arman_chaudhry.pdf",
-        "insuranceCert": "ac_electric_insurance.pdf",
-        "licenseCert": "contractor_license_ca.pdf",
+        "w9Form": "/home/arman.chaudhry/Documents/Taxes/w9_arman_chaudhry.pdf",
+        "insuranceCert": "/home/arman.chaudhry/Documents/Insurance/ac_electric_insurance.pdf",
+        "licenseCert": "/home/arman.chaudhry/Documents/Licenses/contractor_license_ca.pdf",
         "termsAgreed": "on",
         "confidentialityAgreed": "on",
         "submission_time": "2025-09-08 10:42:49"
@@ -866,9 +866,9 @@
         "startDate": "2025-04-01",
         "completionDate": "2026-03-15",
         "workDescription": "Ground-up construction of 6-story mixed-use building",
-        "costBreakdown": "summit_cost_breakdown.xlsx",
-        "schedule": "summit_project_schedule.pdf",
-        "references": "summit_references.pdf",
+        "costBreakdown": "/srv/bids/summit-builders/riverview-apartments-phase-ii/summit_cost_breakdown.xlsx",
+        "schedule": "/srv/bids/summit-builders/riverview-apartments-phase-ii/summit_project_schedule.pdf",
+        "references": "/srv/bids/summit-builders/riverview-apartments-phase-ii/summit_references.pdf",
         "contactName": "Elena Park",
         "contactPhone": "+1-213-555-0127",
         "submission_time": "2025-01-15 14:32:10"
@@ -885,9 +885,9 @@
         "startDate": "2025-11-01",
         "completionDate": "2026-08-15",
         "workDescription": "Annex build with reinforced floor and HVAC upgrades",
-        "costBreakdown": "ironpeak_costs.xlsx",
-        "schedule": "ironpeak_schedule.pdf",
-        "references": "ironpeak_refs.pdf",
+        "costBreakdown": "/srv/bids/ironpeak-construction/westside-fitness-annex/ironpeak_costs.xlsx",
+        "schedule": "/srv/bids/ironpeak-construction/westside-fitness-annex/ironpeak_schedule.pdf",
+        "references": "/srv/bids/ironpeak-construction/westside-fitness-annex/ironpeak_refs.pdf",
         "contactName": "Samuel Cho",
         "contactPhone": "+1-213-555-0175",
         "submission_time": "2025-09-08 10:44:11"
@@ -904,9 +904,9 @@
         "startDate": "2025-10-20",
         "completionDate": "2026-04-20",
         "workDescription": "Interior gym fit-out: flooring, mirrors, lighting, and lockers",
-        "costBreakdown": "blueridge_fitout_costs.xlsx",
-        "schedule": "blueridge_fitout_schedule.pdf",
-        "references": "blueridge_refs.pdf",
+        "costBreakdown": "/srv/bids/blueridge-builders/riverview-apartments-phase-ii-gym-fit-out/blueridge_fitout_costs.xlsx",
+        "schedule": "/srv/bids/blueridge-builders/riverview-apartments-phase-ii-gym-fit-out/blueridge_fitout_schedule.pdf",
+        "references": "/srv/bids/blueridge-builders/riverview-apartments-phase-ii-gym-fit-out/blueridge_refs.pdf",
         "contactName": "Helena Park",
         "contactPhone": "+1-310-555-0190",
         "submission_time": "2025-09-08 10:45:36"

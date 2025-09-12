@@ -31,10 +31,10 @@ Data:
     "qualityStandards": "",
     "requiredDate": "2025-05-20",
     "shippingMethod": "express",
-    "drawings": "bracket_drawings.dwg",
+    "drawings": "/srv/manufacturing/orion-aerospace/drawings/bracket_drawings.dwg",
     "additionalDocs": [
-        "spec_appendix.pdf",
-        "msds.pdf"
+        "/srv/manufacturing/orion-aerospace/specs/spec_appendix.pdf",
+        "/srv/manufacturing/orion-aerospace/safety/msds.pdf"
     ],
 }
 Natural language prompt:
@@ -47,8 +47,8 @@ Product description: Custom aluminum brackets for payload assembly
 Quantity: 500
 Required date: 2025-05-20
 Shipping method: express
-Attach the bracket_drawings.dwg drawing.
-Attach spec_appendix.pdf and msds.pdf in "additional docs". Leave the remaining fields blank.
+Attach the /srv/manufacturing/orion-aerospace/drawings/bracket_drawings.dwg drawing.
+Attach /srv/manufacturing/orion-aerospace/specs/spec_appendix.pdf and /srv/manufacturing/orion-aerospace/safety/msds.pdf in "additional docs". Leave the remaining fields blank.
 Then submit the form
 
 Form: /healthcare-medical/insurance-claim
@@ -62,8 +62,8 @@ Data:
     "diagnosis": "ACL reconstruction",
     "providerName": "CityCare Hospital",
     "providerNumber": "HSP-44321",
-    "medicalBills": "citycare_bills.pdf",
-    "prescriptions": "post_op_instructions.pdf",
+    "medicalBills": "/home/michael.ortiz/Documents/Medical/Bills/citycare_bills.pdf",
+    "prescriptions": "/home/michael.ortiz/Documents/Medical/Instructions/post_op_instructions.pdf",
 }
 
 Natural language prompt:
@@ -76,7 +76,7 @@ Service type: procedure
 Diagnosis: ACL reconstruction
 Provider name: CityCare Hospital
 Provider number: HSP-44321
-For "Medical bills", attach "citycare_bills.pdf" and for "prescriptions" attach "post_op_instructions.pdf"
+For "Medical bills", attach "/home/michael.ortiz/Documents/Medical/Bills/citycare_bills.pdf" and for "prescriptions" attach "/home/michael.ortiz/Documents/Medical/Instructions/post_op_instructions.pdf"
 Then submit the form.
 
 Form: /professional-business/startup-funding
@@ -98,12 +98,12 @@ Data:
     "target_market": "",
     "current_revenue": "",
     "team_size": "",
-    "pitch_deck": "acme_series_a_deck.pdf",
+    "pitch_deck": "/srv/startups/acme/pitch_decks/acme_series_a_deck.pdf",
     "additional_comments": "",
 }
 Natural language prompt:
 Fill out the startup funding form with this information:
-Attach the acme_series_a_deck.pdf file for the pitch deck.
+Attach the /srv/startups/acme/pitch_decks/acme_series_a_deck.pdf file for the pitch deck.
 Leave the remaining fields untouched and then submit the form
 """
 
